@@ -1,8 +1,9 @@
 name: Build skill zip
 
-# On every push to main, zip skills/matt-ai/ from its parent folder (so the zip's top level is the
-# matt-ai/ directory, which is what Claude.ai's skill upload expects) and attach it to a rolling
-# "latest" release. Members on Claude.ai download matt-ai.zip from the Releases page.
+# On every push to main, build the Claude.ai upload zip (same content packed into under 200 files,
+# zipped from the parent folder so the top level is matt-ai/) and attach it to a rolling "latest"
+# release. Members on Claude.ai download matt-ai.zip from the Releases page. Members on Claude Code,
+# Codex and Cursor install the full skills/ folder with npx skills add, which has no file limit.
 
 on:
   push:
@@ -23,12 +24,12 @@ jobs:
           pip install -q "git+https://github.com/agentskills/agentskills.git#subdirectory=skills-ref"
           skills-ref validate skills/matt-ai
 
-      - name: Build matt-ai.zip from the parent folder
+      - name: Build the Claude.ai zip (under 200 files) and validate it
         run: |
-          cd skills
-          zip -qr ../matt-ai.zip matt-ai
-          cd ..
-          unzip -l matt-ai.zip | head -5
+          python3 tools/build_claudeai_zip.py skills/matt-ai build
+          skills-ref validate build/matt-ai
+          cp build/matt-ai.zip matt-ai.zip
+          unzip -l matt-ai.zip | tail -1
 
       - name: Attach to the latest release
         uses: softprops/action-gh-release@v2

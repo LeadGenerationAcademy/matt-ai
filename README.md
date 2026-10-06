@@ -8,7 +8,7 @@ nothing to host and nothing to pay for beyond your own Claude plan.
 
 ### Claude.ai (web or desktop app)
 
-1. Download `matt-ai.zip` from the latest release on the right side of this page.
+1. Download `matt-ai.zip` from the latest release on the right side of this page. (Use that file, not the green Code button: Claude.ai needs the packed version.)
 2. In Claude, open Customize, then Skills.
 3. Click the plus button, then Create skill, then Upload a skill, and choose the zip.
 4. Turn the skill on. It also appears in Claude Code if you are signed in with the same account.
@@ -16,7 +16,7 @@ nothing to host and nothing to pay for beyond your own Claude plan.
 ### Claude Code, Codex, Cursor and other agents
 
 ```
-npx skills add OWNER/matt-ai
+npx skills add LeadGenerationAcademy/matt-ai
 ```
 
 To update later:
@@ -40,6 +40,7 @@ Try: "Here is my offer and my last 30 days of funnel numbers. What is the bigges
 - `skills/matt-ai/references/`: every course module, one file each, with video transcripts and Skool links.
 - `skills/matt-ai/assets/templates/`: Matt's templates, converted so the AI can fill them in with you.
 - `skills/matt-ai/scripts/`: the Unit Economics Model, Reverse Engineering, and Core Metrics calculators.
+- `tools/build_claudeai_zip.py`: packs the skill into the under-200-file zip that Claude.ai accepts. The Action runs it on every push.
 
 ## Updates
 
