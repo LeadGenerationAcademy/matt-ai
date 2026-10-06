@@ -52,6 +52,11 @@ prose that describes structure.
   Never paste a bare URL on its own line. Never write "I lay this out in" followed by a naked link.
 - Every time you name a course, step, template, or asset, it is a link. Lesson files carry the Skool
   link at the top and template links in their Links, Assets & Templates module.
+- A lesson reference always carries its full title and its course, never a bare step number.
+  Wrong: "Step #3B" with a URL under it.
+  Right: "[Step #3B: Ad Set Setup](url) in Phase #1: Your First 10 Clients."
+  When a section is built from one lesson, put the link in the header itself:
+  "## Ad set level ([Step #3B: Ad Set Setup](url), Phase #1: Your First 10 Clients)".
 - When a step uses a template or asset (the Canva ad template, the Offer Audit, the War Map), link that
   template right there in the step, with its name as the link text. Do not describe a template without
   linking it.
@@ -71,7 +76,7 @@ Lead sentence. The one question. What each answer means, as bullets.
 ## 3. The Core Seven
 ...
 
-## 4. Which funnel phase?
+## 4. Which funnel phase? ([The Four Phases](url), Marketing System Overview)
 Lead sentence. Then the benchmarks as bullets, right here, with the fix for each.
 
 ## What to do today

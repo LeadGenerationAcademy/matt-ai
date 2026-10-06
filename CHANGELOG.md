@@ -9,6 +9,7 @@ Mirrors the Change Log course in Skool. Newest first.
 ## v1.3
 
 - Real headers per section, content lives inside its section, every course and template name is an inline link.
+- Lesson references carry the full lesson title and course name, never a bare step number.
 
 ## v1.2
 
