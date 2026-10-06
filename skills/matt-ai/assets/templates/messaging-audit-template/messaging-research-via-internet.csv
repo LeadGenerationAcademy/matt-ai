@@ -1,0 +1,48 @@
+Messaging Research Via Internet,,,,,,,,,,,,,
+Purpose: Record the exact language your ICP uses in reviews so you can mirror your Messaging for your ads and content.,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Instructions:,,,,,,,,,,,,,
+1. Complete the ICP Exercise first. Only collect reviews from companies serving the same industry and ICP level you're targeting.,,,,,,,,,,,,,
+"2. Find at least 1,000 reviews on Trustpilot, Google Reviews, G2, Capterra, or other relevant industry review sites. Collect both positive and negative reviews.",,,,,,,,,,,,,
+"3. Use the prompt below to have ChatGPT or Claude fill in this sheet from a reviews page. Paste the whole page, not a summary.",,,,,,,,,,,,,
+4. Find what keeps repeating across the reviews. That's what your Messaging should reflect.,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Company,Review website,Star rating,Positive or negative,Full review,Main problem,Current circumstances,Desired outcome,What they liked,What they disliked,Why previous solutions failed,Main objections,,Notes
+,,,,,,,,,,,,,"• One row per individual review. Company, Review website, and Star rating are all pulled by the AI straight from the page itself."
+,,,,,,,,,,,,,"• Leave a field blank if a review doesn't cover it, rather than guessing."
+,,,,,,,,,,,,,"• You can paste an entire reviews page with many reviews on it at once using the prompt below, review on the page as its own row."
+,,,,,,,,,,,,,"• Use the prompt below with ChatGPT or Claude. Just paste the prompt, then paste the whole reviews page right after"
+,,,,,,,,,,,,,"• Use the prompt below with ChatGPT or Claude. Just paste the prompt, then paste the whole reviews page right after it."
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,Prompt (paste into ChatGPT or Claude along with a whole reviews page)
+,,,,,,,,,,,,,Double click the row below to open the full prompt.
+,,,,,,,,,,,,,"I will paste the full text of a reviews page below. This page may contain reviews for one company or for multiple companies. 
+
+This may also come from any review platform, for example Trustpilot, Google Reviews, G2, Capterra, or another site.
+
+First, identify every separate, individual review on the page. Reviews are usually separated by things like a reviewer name, a date, and a star rating appearing together. Do not skip or summarize any reviews.
+
+If a review is too short or too generic to say anything meaningful (for example, a review that just says ""Highly recommend!"" or ""Great service"" with nothing else), leave that review out entirely rather than including a row for it. Only include reviews that actually give you something to work with.
+
+For each individual review you do include, using only what is actually on the page, pull out the following. If something cannot be determined for a specific field, put ""N/A"" in that field rather than guessing or leaving it blank. It's fine for a review to end up with several fields marked N/A, as long as the review itself was worth including in the first place.
+
+1) Company: the name of the company being reviewed. If the page covers more than one company, work this out individually for each review rather than assuming one company for the whole page.
+2) Review website: the platform this page is from, for example Trustpilot, Google Reviews, G2, Capterra, or Other, based on branding, layout, or other identifying details on the page. If you cannot tell which platform it is, put N/A.
+3) Star rating: the number of stars given for that specific review, if shown.
+4) Positive or negative: answer Positive if the review is a 4 or 5 star review or is clearly positive in tone, Negative if it is a 1 or 2 star review or is clearly negative in tone. For a 3 star or mixed review, judge this from the actual tone of the review rather than defaulting to one answer.
+5) Full review: the review text itself, kept as close to verbatim as reasonably possible.
+6) Main problem: the core problem or pain point the reviewer describes, if mentioned.
+7) Current circumstances: their situation as it relates to this problem, if mentioned.
+8) Desired outcome: what they wanted to happen, if mentioned.
+9) What they liked: specific things they say they liked.
+10) What they disliked: specific things they say they disliked.
+11) Why previous solutions failed: if they mention a prior tool or approach that did not work for them, why it failed.
+12) Main objections: any real hesitation or concern they mention having had before buying, or anything they would warn a future buyer about. Do not count a simple factual dislike as an objection unless they frame it as a concern or hesitation.
+
+Output your answer as a Markdown table with exactly these column headers, in this order: Company | Review website | Star rating | Positive or negative | Full review | Main problem | Current circumstances | Desired outcome | What they liked | What they disliked | Why previous solutions failed | Main objections
+
+One row per individual review you're including, in the order those reviews appear on the page. Do not add any commentary before or after the table."

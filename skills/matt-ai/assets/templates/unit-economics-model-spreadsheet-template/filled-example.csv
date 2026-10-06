@@ -1,0 +1,91 @@
+Acquisition Costs,Cost ($),Labor/Team Costs,Cost ($),Software Costs,Cost ($),,,Legend,
+Cost Per Click,10.0,Closer Costs Per Customer,970.0,Acquisition Software Per Customer,33.54166667,,,,Manual input
+Application Rate,0.08,Appointment Setter Costs Per Customer,970.0,Other Acquisition Costs,0.0,,,,Automatic calculation
+Call Booked Rate (Of Applications),0.5,Acquisition Salaries Per Customer,1979.166667,,,,,,Total
+Cost Per Call,250,,,,,,,,
+Show Rate,0.6,,,,,,,,
+Qualified Call Rate,0.9,,,,,,,,
+Cost Per Live Call,416.6666667,,,,,,,,
+Close Rate (Live Calls),0.2,,,,,,,,
+Total Ad Costs (Per Customer),2083.333333,Total,3919.166667,Total,33.54166667,,,,
+Labor/Team Costs,Cost ($),Software Costs,Cost ($),Other Costs,Cost ($),,,,
+Fulfillment Labor Per Customer,257.2916667,Fulfillment Software Per Customer,15.625,Other Fulfillment Costs,0.0,,,,
+Managers & Supervision Per Customer,781.25,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Total,1038.541667,Total,15.625,Total,0,,,,
+Total,Cost ($),Average,Cost ($),Unit Economics,Cost ($),Target,,,
+Gross Cash Collected,10000.0,Cash Collected,96000,Net Cash Collected,9700,,,,
+Payment Processing Fees,300.0,Payment Processing Fees,2880,Acquisition Costs,6036.041667,,,,
+Net Cash Collected,9700,Net Cash Collected,93120,Fulfillment Costs,1054.166667,,,,
+Months Of Delivery Covered Upfront,3.0,Monthly Spend,20000,Unit Economics Multiple,1.368083919,2X+,,,
+,,Ad Spend Per Customer,2083.333333,Gross Margin,0.8945833333,80%+,,,
+,,Customers,9.6,Total Delivery Hours,20.58333333,,,,
+,,,,Effective Hourly Rate,485.8299595,$250+,,,
+,,,,,,,,,
+List Of Tech Costs,Department,Monthly Cost ($),List Of Salaries,Department,Monthly Salary ($),Hourly Rate ($),,Every Single Step In Workflow (Full Delivery),Time Required (Minutes)
+Landing Page Builder,Acquisition,49.0,Founder / Media Buyer,Acquisition,8000.0,50.0,,Send onboarding form,10.0
+Email Marketing Tool,Acquisition,30.0,Appointment Setter (Base),Acquisition,1500.0,9.38,,Chase missing onboarding information,20.0
+CRM,Acquisition,99.0,Closer (Base),Acquisition,2000.0,12.5,,Kickoff call,60.0
+SMS Tool,Acquisition,25.0,Creative Strategist,Acquisition,3000.0,18.75,,Get ad account access,15.0
+Dialing Tool,Acquisition,30.0,Video Editor 1,Acquisition,1500.0,9.38,,Set up pixel and conversion events,45.0
+Call Booking / Calendar Tool,Acquisition,12.0,Video Editor 2,Acquisition,1500.0,9.38,,Write ad copy from winning angles,90.0
+VSL / Video Hosting,Acquisition,20.0,Video Editor 3,Acquisition,1500.0,9.38,,Brief video editor,20.0
+Zoom / Call Recording,Acquisition,15.0,CRM Champion,Fulfillment,2000.0,12.5,,Review and fix ad edits,45.0
+Loom,Acquisition,12.0,PM Champion,Management,2500.0,15.62,,Build landing page from template,120.0
+Zapier / Automation,Acquisition,30.0,Proof Champion,Fulfillment,1500.0,9.38,,Send landing page for client approval,10.0
+Project Management Tool,Fulfillment,10.0,Tech Person,Fulfillment,2500.0,15.62,,Chase client approval,15.0
+AI Tools,Fulfillment,40.0,Fulfillment Team Member,Fulfillment,2000.0,12.5,,Make client revisions,45.0
+,,,,,,,,Launch campaigns,30.0
+,,,,,,,,Check campaigns after 72 hours,20.0
+,,,,,,,,Monthly optimization calls (3),180.0
+,,,,,,,,Weekly reports (12),240.0
+,,,,,,,,New ad batches (3),270.0
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Total,,372,Total,,29500,,,Total,1235
+,,,,,,,,,
+,,,,,,,,,
+Average,Metrics,Total,,,,,,,
+Ad Spend,20000.0,,,,,,,,
+Call Booked Rate,0.5,Applications,160,,,,,,
+Cost Per Call,250,Calls,80,,,,,,
+Show Rate,0.6,Shows,48,,,,,,
+Qualified Call Rate,0.9,Qualified Shows,43.2,,,,,,
+Close Rate (Live Calls),0.2,Closes,9.6,,,,,,
+Cost Per Live Call,416.6666667,,,,,,,,
+Cost Per Customer,2083.333333,Total Customers,9.6,,,,,,
+Average,Metrics,Total,,,,,,,
+Gross Cash Collected Per Sale,10000,Gross Cash Collected,96000,,,,,,
+Payment Processor Costs Per Sale,300,Payment Processor Costs,2880,,,,,,
+Net Cash Collected Per Sale,9700,Net Cash Collected,93120,,,,,,
+Ad Spend Per Sale,2083.333333,Ad Spend,20000,,,,,,
+Closer Costs Per Sale,970,Closer Costs,9312,,,,,,
+Appointment Setter Costs Per Sale,970,Appointment Setter Costs,9312,,,,,,
+Acquisition Software Costs Per Sale,33.54166667,Acquisition Software Costs,322,,,,,,
+Acquisition Salaries Per Sale,1979.166667,Acquisition Salaries,19000,,,,,,
+Other Acquisition Costs Per Sale,0,Other Acquisition Costs,0,,,,,,
+Fulfillment Costs Per Sale,1054.166667,Fulfillment Costs,10120,,,,,,
+Average Costs Per Sale,7090.208333,Total Costs,68066,,,,,,
+Average Profit Per Sale,2609.791667,Net Profit,25054,,,,,,
+ROAS,4.8,ROAS,4.8,,,,,,
+Net ROAS,1.410395792,Net ROAS,1.410395792,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Call Funnel Financial Model,Input,Total Calls,,,,,,,
+Ad Spend,20000,,,,,,,,
+Cost Per Call [WORST],250,80,,,,,,,
+Show Rate,0.6,48,,,,,,,
+Qualified Call Rate,0.9,43.2,,,,,,,
+Close Rate (Live Calls),0.2,9.6,,,,,,,
+Cash Collected Per Sale,10000,96000,# Of Sales,9.6,CPA,2083.333333,,,
+ROAS,,4.8,,,,,,,
+Fixed Costs,,372,,,,,,,
+Team Costs,,29500,,,,,,,
+Sales,,18624,,,,,,,
+Total Cost,,68496,,,,,,,
+Net Profit,,27504,,,,,,,
+Net ROAS,,1.401541696,,,,,,,

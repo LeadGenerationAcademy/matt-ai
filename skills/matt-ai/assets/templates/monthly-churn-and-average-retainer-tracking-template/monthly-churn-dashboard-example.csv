@@ -1,0 +1,32 @@
+Monthly Churn & Average Retainer Tracking,,,,,,,,
+Purpose: See your Monthly Churn Rate and Monthly Median Client Payment for every month.,,,,,,,,
+,,,,,,,,
+Legend:,,,Auto-calculated,,,,,Auto-calculated Total	
+,,,,,,,,
+,,,,,,,,
+Instructions:,,,,,,,,
+"1. Every number here fills in on its own from Client Data and Payments, there's nothing to enter manually.",,,,,,,,
+2. Watch whether Churn Rate is improving.,,,,,,,,
+3. Watch whether Median Client Payment is increasing.,,,,,,,,
+3. Watch whether New Clients are replacing Cancelled Customers fast enough.,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Month,Clients At Start,New Clients,Cancelled Customers,Total Clients At End,Churn Rate,Revenue,Total Payments,Average/Median Client Payment
+January,6.0,6.0,1.0,11.0,0.166666666666667,115700.0,47.0,2461.70212765957
+February,11.0,6.0,2.0,15.0,0.181818181818182,134700.0,51.0,2641.17647058824
+March,15.0,5.0,2.0,18.0,0.133333333333333,122100.0,53.0,2303.77358490566
+April,18.0,5.0,3.0,20.0,0.166666666666667,124900.0,55.0,2270.90909090909
+May,20.0,4.0,3.0,21.0,0.15,127400.0,56.0,2275.0
+June,21.0,4.0,3.0,22.0,0.142857142857143,129600.0,57.0,2273.68421052632
+July,22.0,4.0,3.0,23.0,0.136363636363636,131800.0,58.0,2272.41379310345
+August,23.0,4.0,3.0,24.0,0.130434782608696,137300.0,60.0,2288.33333333333
+September,24.0,4.0,4.0,24.0,0.166666666666667,97000.0,43.0,2255.81395348837
+October,24.0,3.0,4.0,23.0,0.166666666666667,95400.0,42.0,2271.42857142857
+November,23.0,3.0,3.0,23.0,0.130434782608696,97900.0,42.0,2330.95238095238
+December,23.0,2.0,3.0,22.0,0.130434782608696,99000.0,42.0,2357.14285714286
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Customer Lifespan and LTV,,,,,,,,
+Average Monthly Churn Rate,Average Customer Lifespan (Months),Average Retainer Price,Average LTV,,,,,
+0.150195275738754,6.65799902880684,2392.0,15925.933676906,,,,,

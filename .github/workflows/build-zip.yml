@@ -1,0 +1,40 @@
+name: Build skill zip
+
+# On every push to main, zip skills/matt-ai/ from its parent folder (so the zip's top level is the
+# matt-ai/ directory, which is what Claude.ai's skill upload expects) and attach it to a rolling
+# "latest" release. Members on Claude.ai download matt-ai.zip from the Releases page.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  zip:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate the skill
+        run: |
+          pip install -q "git+https://github.com/agentskills/agentskills.git#subdirectory=skills-ref"
+          skills-ref validate skills/matt-ai
+
+      - name: Build matt-ai.zip from the parent folder
+        run: |
+          cd skills
+          zip -qr ../matt-ai.zip matt-ai
+          cd ..
+          unzip -l matt-ai.zip | head -5
+
+      - name: Attach to the latest release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: Matt AI (latest)
+          body: "Download matt-ai.zip and upload it in Claude under Customize > Skills. See CHANGELOG.md for what changed."
+          files: matt-ai.zip
+          prerelease: false

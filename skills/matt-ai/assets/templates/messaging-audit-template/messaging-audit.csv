@@ -1,0 +1,50 @@
+Messaging Audit,,,,,,,,,,,,
+Purpose: Use your sales call transcripts and the prompt given below to see find out whether your Messaging attracts your ICP and gets them to buy.,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Instructions,,,,,,,,,,,,
+"1. Review your last 100 sales calls. If you have fewer than 100, review all of them. If you have no sales calls yet, skip to Step #2B.",,,,,,,,,,,,
+"2. Log one row per call: ICP match, financially qualified, decision-making power, purchased within 7 days.",,,,,,,,,,,,
+3. Use the prompt below to have ChatGPT or Claude fill in those four column from your sales call transcripts.,,,,,,,,,,,,
+4. Check your score on the right. Pass at least 3 of 4 to call your Messaging working.,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Legend:,,,Auto-calculated,,,,Auto-calculated Total	,,,,,
+,,,,,,,,,,,,
+Prospect Name,Prospect Email,Prospect Phone Number,Call Transcript,Matched All ICP Characteristics?,Financially Qualified?,Had Decision-Making Power?,Purchased Within 7 Days?,,Test,Your Result,Required,Pass?
+,,,,Yes,Yes,Yes,Yes,,At least 80% matched the majority of your ICP characteristics,1,0.8,PASS
+,,,,,,,,,At least 80% were financially qualified,1,0.8,PASS
+,,,,,,,,,At least 80% had decision-making power,1,0.8,PASS
+,,,,,,,,,At least 50% purchased within seven days of the calls,1,0.5,PASS
+,,,,,,,,,,,,
+,,,,,,,,,Calls logged,1,,
+,,,,,,,,,Tests passed,4 / 4,,
+,,,,,,,,,,,,
+,,,,,,,,,Notes,,,
+,,,,,,,,,• One row per call.,,,
+,,,,,,,,,"• You can either paste in your full text transcript in the Call Transcript column, or the link to it.",,,
+,,,,,,,,,"• The Purchased Within 7 Days? column must be filled out by yourself after the call, once you know the result.",,,
+,,,,,,,,,"• Paste your ICP (Ideal Customer Profile) criteria into the prompt below once, then reuse the same prompt for every transcript.",,,
+,,,,,,,,,"• Use the prompt given below with ChatGPT or Claude. Paste the prompt, then paste one call transcript right after it.",,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,Prompt (paste into ChatGPT or Claude along with one or multiple call transcript),,,
+,,,,,,,,,"Double click the row below to open the full prompt. Fill in your ICP criteria once into the prompt, are re-use it each time.",,,
+,,,,,,,,,"Reads one or more sales call transcripts and fills in the audit columns for you. You are auditing sales call transcripts for a qualification checklist.
+
+Here is our Ideal Customer Profile (ICP): [PASTE YOUR ICP CRITERIA HERE (Example: industry, company size, revenue range, role of the buyer, budget range)].
+
+I will paste one or more call transcripts below, separated by a line of dashes (---) between each one. Treat everything between one --- and the next as a single, separate call. If I only paste one transcript, just treat it as one call.
+
+For each transcript, determine the following, using only what is actually said in that call. If something cannot be determined for a specific field, put ""N/A"" in that field rather than guessing.
+
+1. Prospect Name, if stated in the transcript, otherwise N/A.
+2. Prospect Email, if stated, otherwise N/A.
+3. Prospect Phone Number, if stated, otherwise N/A.
+4. Matched All ICP Characteristics: answer Yes or No based on whether the prospect matches the ICP above. If the call doesn't give you enough to judge this, put N/A.
+5. Financially Qualified: answer Yes if the prospect indicated they have the budget or ability to pay, No if they raised budget concerns or said they cannot afford it. If neither came up in the call, put N/A.
+6. Had Decision-Making Power: answer Yes if the prospect is the final decision maker or confirmed no one else needs to approve, No if they mentioned needing sign-off from someone else. If this wasn't discussed, put N/A.
+
+Output your answer as a Markdown table with exactly these column headers, in this order: Prospect Name | Prospect Email | Prospect Phone Number | Matched All ICP Characteristics | Financially Qualified | Had Decision-Making Power
+
+One row per call transcript, in the same order the transcripts were pasted. Do not add any commentary before or after the table.",,,

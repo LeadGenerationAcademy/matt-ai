@@ -1,0 +1,150 @@
+Client Data,,,,,,,,,
+"Purpose: Track how long each client stays, how much they pay, and when they churn.",,,,,,,,,
+,,,,,,,,,
+Legend:,,,Editable,,,,,,Auto-calculated
+,,,,,,,,,
+,,,,,,,,,
+Instructions:,,,,,,,,,
+"1. Create one row for every client, active and churned.",,,,,,,,,
+"2. Backfill your last 6 to 12 months of clients first. Enter when they started, when they churned (if they have), and how much they paid.",,,,,,,,,
+"3. Retainer Price is the client's fixed monthly payment. If a client doesn't pay a fixed amount, use their average monthly payment instead.",,,,,,,,,
+"4. After the backfill, update this sheet every time a client starts, pays, or churns.",,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Client Name,Client Email,Lead Source,Date Started,Date Churned,Time In Months,Retainer Price,Total Payments,Total Amount Paid,Status
+Edward Perez,edward.perez85@proton.me,Cold Call,2026-02-01 00:00:00,2026-08-01 00:00:00,5.946123522,3200.0,0,0,Churned
+Stephanie Clark,sclark@icloud.com,Paid Ads,2024-09-01 00:00:00,,25.13140604,2600.0,0,0,Churned
+Karen Roberts,karen.roberts@proton.me,Paid Ads,2023-05-01 00:00:00,,41.19579501,1900.0,0,0,Active
+Kenneth Rodriguez,kenneth.rodriguez43@yahoo.com,Cold Call,2024-03-01 00:00:00,,31.1760841,1900.0,0,0,Active
+Emily Hall,emily.hall@yahoo.com,Inbound Lead Magnet,2026-01-01 00:00:00,2026-04-01 00:00:00,2.956636005,2800.0,0,0,Churned
+Sarah Smith,sarah.smith44@gmail.com,Cold Call,2023-03-01 00:00:00,2024-02-01 00:00:00,11.07095926,2600.0,0,0,Churned
+Ronald Baker,rbaker@aol.com,Inbound Lead Magnet,2023-05-01 00:00:00,,41.19579501,2600.0,0,0,Active
+Anthony Hall,anthony.hall36@icloud.com,Cold Call,2025-08-01 00:00:00,2025-12-01 00:00:00,4.007884363,3000.0,0,0,Refund
+Karen Taylor,ktaylor@gmail.com,Inbound Lead Magnet,2023-07-01 00:00:00,2024-05-01 00:00:00,10.01971091,2600.0,0,0,Active
+Carol Robinson,carol.robinson78@outlook.com,Podcast Guesting,2024-02-01 00:00:00,,32.12877792,2600.0,0,0,Churned
+Stephanie Martin,stephaniem@yahoo.com,Warm Intro,2024-03-01 00:00:00,,31.1760841,1800.0,0,0,Active
+Jeffrey Nelson,jeffreyn@icloud.com,Paid Ads,2024-06-01 00:00:00,2025-06-01 00:00:00,11.99080158,1900.0,0,0,Active
+Susan Taylor,susant@gmail.com,Inbound Lead Magnet,2024-01-01 00:00:00,2024-06-01 00:00:00,4.993429698,1900.0,0,0,Churned
+Andrew Roberts,andrew.roberts@proton.me,Referral,2023-09-01 00:00:00,2024-07-01 00:00:00,9.986859396,2400.0,0,0,Churned
+Jessica Carter,jessica.carter73@gmail.com,Warm Intro,2024-04-01 00:00:00,,30.15768725,1900.0,0,0,PIF
+Richard White,rwhite@icloud.com,Cold Email,2026-06-01 00:00:00,,4.172141919,2000.0,0,0,Active
+Steven Sanchez,stevens@outlook.com,Cold Email,2025-08-01 00:00:00,2026-06-01 00:00:00,9.986859396,3200.0,0,0,PIF
+Dorothy Hill,dorothy.hill@gmail.com,Cold Call,2023-02-01 00:00:00,2023-03-01 00:00:00,0.9198423127,1800.0,0,0,Churned
+Michelle Baker,michelleb@hotmail.com,Paid Ads,2023-05-01 00:00:00,2023-09-01 00:00:00,4.040735874,3200.0,0,0,Active
+Timothy Williams,timothy.williams@outlook.com,Referral,2024-01-01 00:00:00,2024-04-01 00:00:00,2.989487516,2000.0,0,0,Active
+Jennifer Hernandez,jhernandez@hotmail.com,Podcast Guesting,2023-11-01 00:00:00,2024-05-01 00:00:00,5.978975033,3200.0,0,0,Active
+Paul Nguyen,pauln@icloud.com,Organic Content,2025-10-01 00:00:00,,12.15505913,3000.0,0,0,Churned
+Karen Robinson,krobinson@outlook.com,Warm Intro,2023-01-01 00:00:00,2023-07-01 00:00:00,5.946123522,2400.0,0,0,Active
+Ashley Sanchez,asanchez@proton.me,Cold Call,2024-01-01 00:00:00,2025-01-01 00:00:00,12.02365309,2200.0,0,0,Churned
+Anthony Ramirez,anthony.ramirez@outlook.com,Warm Intro,2023-09-01 00:00:00,,37.15505913,2800.0,0,0,Churned
+Donna Clark,dclark@outlook.com,Referral,2024-02-01 00:00:00,,32.12877792,2400.0,0,0,Active
+Timothy Lopez,timothyl@icloud.com,Inbound Lead Magnet,2025-03-01 00:00:00,,19.18528252,1800.0,0,0,Active
+Laura Flores,laura.flores81@proton.me,Cold Call,2023-06-01 00:00:00,2024-04-01 00:00:00,10.01971091,2800.0,0,0,Churned
+Kevin Roberts,kevin.roberts@hotmail.com,Referral,2026-04-01 00:00:00,,6.1760841,2600.0,0,0,Churned
+Matthew Taylor,matthew.taylor@hotmail.com,Warm Intro,2025-07-01 00:00:00,2025-09-01 00:00:00,2.036793693,2500.0,0,0,Active
+Kevin Rivera,kevinr@aol.com,Cold Call,2025-04-01 00:00:00,2025-08-01 00:00:00,4.007884363,2000.0,0,0,Churned
+John Carter,john.carter76@icloud.com,Cold Email,2024-07-01 00:00:00,2025-03-01 00:00:00,7.982917214,1900.0,0,0,Churned
+Donald Baker,donaldb@gmail.com,Referral,2025-11-01 00:00:00,2025-12-01 00:00:00,0.9855453351,3000.0,0,0,PIF
+Susan Wright,swright@proton.me,Podcast Guesting,2024-02-01 00:00:00,2024-10-01 00:00:00,7.982917214,2400.0,0,0,Churned
+Amanda Jackson,amanda.jackson56@icloud.com,Paid Ads,2026-06-01 00:00:00,,4.172141919,2500.0,0,0,Churned
+Mary Anderson,manderson@gmail.com,Cold Call,2025-08-01 00:00:00,2025-11-01 00:00:00,3.022339028,1900.0,0,0,Churned
+Linda Nguyen,linda.nguyen@proton.me,Referral,2024-12-01 00:00:00,2025-09-01 00:00:00,9.00131406,2800.0,0,0,Churned
+Robert Allen,roberta@icloud.com,Warm Intro,2023-07-01 00:00:00,,39.19185283,1800.0,0,0,Churned
+Melissa Nelson,melissa.nelson@aol.com,Cold Call,2023-01-01 00:00:00,2023-10-01 00:00:00,8.968462549,2000.0,0,0,Churned
+Ashley Brown,abrown@outlook.com,Referral,2024-12-01 00:00:00,2025-09-01 00:00:00,9.00131406,3200.0,0,0,Churned
+Edward Williams,edward.williams73@proton.me,Referral,2023-04-01 00:00:00,2023-11-01 00:00:00,7.03022339,1800.0,0,0,Churned
+Elizabeth Smith,elizabeth.smith46@gmail.com,Inbound Lead Magnet,2024-04-01 00:00:00,2024-12-01 00:00:00,8.015768725,1900.0,0,0,Active
+Christopher Jackson,christopher.jackson@proton.me,Cold Call,2024-10-01 00:00:00,,24.14586071,2200.0,0,0,Churned
+Stephanie Davis,sdavis@yahoo.com,Cold Email,2024-11-01 00:00:00,2025-11-01 00:00:00,11.99080158,3200.0,0,0,Churned
+Edward Allen,eallen@icloud.com,Organic Content,2024-08-01 00:00:00,2025-05-01 00:00:00,8.968462549,1900.0,0,0,Churned
+Kevin Hill,khill@gmail.com,Warm Intro,2023-05-01 00:00:00,2023-08-01 00:00:00,3.022339028,2500.0,0,0,Active
+Susan Baker,susan.baker65@outlook.com,Cold Email,2023-03-01 00:00:00,2023-10-01 00:00:00,7.03022339,2200.0,0,0,Churned
+Lisa Green,lisa.green55@yahoo.com,Cold Call,2025-09-01 00:00:00,2026-02-01 00:00:00,5.026281209,3000.0,0,0,Churned
+Ronald Thomas,ronald.thomas@icloud.com,Cold Email,2025-02-01 00:00:00,2025-10-01 00:00:00,7.950065703,2000.0,0,0,Churned
+Sharon Martinez,sharonm@aol.com,Referral,2024-10-01 00:00:00,2025-07-01 00:00:00,8.968462549,1800.0,0,0,Refund
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

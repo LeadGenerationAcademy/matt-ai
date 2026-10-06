@@ -1,0 +1,150 @@
+Transactions,,,,,,,,,
+"Purpose: Log every transaction from your business bank accounts, payment processors, and credit cards, real cash in and real cash out, so you always know your actual Net Profit and Net Margin.",,,,,,,,,
+,,,,,,,,,
+Legend:,,,,Editable,,,,Auto-calculated,
+,,,,,,,,,
+,,,,,,,,,
+Instructions,,,,,,,,,
+"1. Enter every transaction from your business bank accounts, payment processors, and credit cards. Only count money that has actually hit or left one of your accounts.",,,,,,,,,
+"2. Don't include signed contracts, unpaid invoices, expected revenue, or payouts still sitting with a processor. If it's not in your account yet, it hasn't happened yet.",,,,,,,,,
+"3. Set Type to Revenue, Expense, or Transfer. Transfers between your own accounts don't count as revenue or expense, or you'll count the same money twice.",,,,,,,,,
+"4. Pick a Category for every transaction so you can see where the money is actually going, don't dump things into a vague catch-all.",,,,,,,,,
+"5. Currency and Conversion Rate default to USD and 1, only change them for transactions in another currency.",,,,,,,,,
+6. Amount in Reporting Currency fills in on its own from what you enter.,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Date,Account,Transaction Description,Type,Category,Money In,Money Out,Currency,Conversion Rate,Amount in Reporting Currency
+2026-01-01 00:00:00,Chase Business Credit Card,Notion subscription,Expense,Software,0.0,341.48,USD,1.0,-341.48
+2026-01-02 00:00:00,Chase Business Checking,Contractor payment,Expense,Contractors,0.0,2461.21,USD,1.0,-2461.21
+2026-01-03 00:00:00,Stripe,Vale Ventures - invoice payment,Revenue,Client Revenue,28834.47,0.0,USD,1.0,28834.47
+2026-01-03 00:00:00,Chase Business Checking,Transfer to savings,Transfer,,0.0,32957.9,AED,0.2723,-8974.43617
+2026-01-04 00:00:00,Stripe,Vale Ventures - invoice payment,Revenue,Client Revenue,27781.51,0.0,USD,1.0,27781.51
+2026-01-07 00:00:00,Chase Business Checking,Contractor payment,Expense,Contractors,0.0,2748.03,USD,1.0,-2748.03
+2026-01-10 00:00:00,Stripe,Maplecrest Consulting - invoice payment,Revenue,Client Revenue,23083.68,0.0,USD,1.0,23083.68
+2026-01-11 00:00:00,Chase Business Credit Card,Ad platform charge,Expense,Advertising,0.0,13802.6,USD,1.0,-13802.6
+2026-01-11 00:00:00,Chase Business Credit Card,Notion subscription,Expense,Software,0.0,350.4,USD,1.0,-350.4
+2026-01-14 00:00:00,Chase Business Credit Card,Notion subscription,Expense,Software,0.0,354.47,USD,1.0,-354.47
+2026-01-15 00:00:00,Chase Business Credit Card,Ad platform charge,Expense,Advertising,0.0,15197.4,USD,1.0,-15197.4
+2026-01-17 00:00:00,Chase Business Credit Card,QuickBooks subscription,Expense,Software,0.0,384.61,USD,1.0,-384.61
+2026-01-20 00:00:00,Stripe,Summit Partners - invoice payment,Revenue,Client Revenue,103215.61,0.0,AED,0.2723,28105.6106
+2026-01-21 00:00:00,Stripe,Maplecrest Consulting - invoice payment,Revenue,Client Revenue,106454.87,0.0,AED,0.2723,28987.6611
+2026-01-21 00:00:00,Chase Business Checking,Payroll run,Expense,Payroll,0.0,14057.03,USD,1.0,-14057.03
+2026-01-23 00:00:00,Chase Business Credit Card,Slack subscription,Expense,Software,0.0,1395.37,AED,0.2723,-379.959251
+2026-01-23 00:00:00,Chase Business Credit Card,Miscellaneous expense,Expense,Other,0.0,1770.11,AED,0.2723,-482.000953
+2026-01-24 00:00:00,Chase Business Checking,Payroll run,Expense,Payroll,0.0,13942.97,USD,1.0,-13942.97
+2026-01-25 00:00:00,Stripe,Processing fees,Expense,Processing Fees,0.0,5046.97,USD,1.0,-5046.97
+2026-01-26 00:00:00,Stripe,Granite Larch Partners - invoice payment,Revenue,Client Revenue,28860.39,0.0,USD,1.0,28860.39
+2026-01-26 00:00:00,Stripe,Wilder Bay Group - invoice payment,Revenue,Client Revenue,19347.92,0.0,USD,1.0,19347.92
+2026-01-28 00:00:00,Chase Business Credit Card,Office supplies / rent,Expense,Office,0.0,900.4,USD,1.0,-900.4
+2026-01-28 00:00:00,Chase Business Credit Card,Travel expense,Expense,Travel,0.0,8857.67,AED,0.2723,-2411.943541
+2026-01-29 00:00:00,Chase Business Checking,Contractor payment,Expense,Contractors,0.0,6210.9,AED,0.2723,-1691.22807
+2026-01-30 00:00:00,Chase Business Checking,Accounting / bookkeeping,Expense,Accounting,0.0,485.4,USD,1.0,-485.4
+2026-02-01 00:00:00,Stripe,Northfield Group - invoice payment,Revenue,Client Revenue,29125.14,0.0,USD,1.0,29125.14
+2026-02-01 00:00:00,Chase Business Checking,Contractor payment,Expense,Contractors,0.0,2513.87,USD,1.0,-2513.87
+2026-02-01 00:00:00,Chase Business Credit Card,QuickBooks subscription,Expense,Software,0.0,212.6,USD,1.0,-212.6
+2026-02-03 00:00:00,Chase Business Credit Card,Slack subscription,Expense,Software,0.0,151.27,USD,1.0,-151.27
+2026-02-05 00:00:00,Stripe,Northfield Group - invoice payment,Revenue,Client Revenue,45185.1,0.0,USD,1.0,45185.1
+2026-02-05 00:00:00,Stripe,Processing fees,Expense,Processing Fees,0.0,5661.81,USD,1.0,-5661.81
+2026-02-05 00:00:00,Chase Business Credit Card,Office supplies / rent,Expense,Office,0.0,724.6,USD,1.0,-724.6
+2026-02-06 00:00:00,Stripe,Maplecrest Consulting - invoice payment,Revenue,Client Revenue,49495.65,0.0,USD,1.0,49495.65
+2026-02-07 00:00:00,Chase Business Checking,Payroll run,Expense,Payroll,0.0,11842.66,USD,1.0,-11842.66
+2026-02-07 00:00:00,Chase Business Checking,Contractor payment,Expense,Contractors,0.0,2571.39,USD,1.0,-2571.39
+2026-02-07 00:00:00,Chase Business Credit Card,Slack subscription,Expense,Software,0.0,573.68,AED,0.2723,-156.213064
+2026-02-08 00:00:00,Chase Business Credit Card,Travel expense,Expense,Travel,0.0,7776.08,AED,0.2723,-2117.426584
+2026-02-09 00:00:00,Chase Business Checking,Contractor payment,Expense,Contractors,0.0,2531.87,USD,1.0,-2531.87
+2026-02-12 00:00:00,Chase Business Credit Card,Google Workspace subscription,Expense,Software,0.0,163.97,USD,1.0,-163.97
+2026-02-13 00:00:00,Chase Business Credit Card,Notion subscription,Expense,Software,0.0,236.35,USD,1.0,-236.35
+2026-02-13 00:00:00,Chase Business Credit Card,Miscellaneous expense,Expense,Other,0.0,2248.23,AED,0.2723,-612.193029
+2026-02-15 00:00:00,Stripe,Summit Partners - invoice payment,Revenue,Client Revenue,34826.57,0.0,USD,1.0,34826.57
+2026-02-17 00:00:00,Chase Business Checking,Payroll run,Expense,Payroll,0.0,16157.34,USD,1.0,-16157.34
+2026-02-20 00:00:00,Chase Business Credit Card,Ad platform charge,Expense,Advertising,0.0,7060.03,USD,1.0,-7060.03
+2026-02-20 00:00:00,Chase Business Checking,Transfer to savings,Transfer,,0.0,50760.93,AED,0.2723,-13822.20124
+2026-02-21 00:00:00,Chase Business Credit Card,Ad platform charge,Expense,Advertising,0.0,8057.93,USD,1.0,-8057.93
+2026-02-21 00:00:00,Chase Business Credit Card,Office supplies / rent,Expense,Office,0.0,607.76,USD,1.0,-607.76
+2026-02-21 00:00:00,Chase Business Checking,Accounting / bookkeeping,Expense,Accounting,0.0,1701.8,AED,0.2723,-463.40014
+2026-02-23 00:00:00,Stripe,Harborline Co - invoice payment,Revenue,Client Revenue,33367.54,0.0,USD,1.0,33367.54
+2026-02-28 00:00:00,Chase Business Credit Card,Ad platform charge,Expense,Advertising,0.0,47309.29,AED,0.2723,-12882.31967
+2026-03-03 00:00:00,Chase Business Checking,Payroll run,Expense,Payroll,0.0,13889.4,USD,1.0,-13889.4
+2026-03-03 00:00:00,Chase Business Credit Card,Zoom subscription,Expense,Software,0.0,1091.21,AED,0.2723,-297.136483
+2026-03-03 00:00:00,Chase Business Credit Card,Travel expense,Expense,Travel,0.0,2461.93,AED,0.2723,-670.383539
+2026-03-03 00:00:00,Stripe,Client refund,Expense,Refunds,0.0,1854.64,USD,1.0,-1854.64
+2026-03-05 00:00:00,Chase Business Credit Card,Google Workspace subscription,Expense,Software,0.0,254.65,USD,1.0,-254.65
+2026-03-05 00:00:00,Chase Business Credit Card,Miscellaneous expense,Expense,Other,0.0,307.91,USD,1.0,-307.91
+2026-03-07 00:00:00,Chase Business Credit Card,Ad platform charge,Expense,Advertising,0.0,13112.86,USD,1.0,-13112.86
+2026-03-09 00:00:00,Stripe,Cobalt Fern Studio - invoice payment,Revenue,Client Revenue,150675.84,0.0,AED,0.2723,41029.03123
+2026-03-11 00:00:00,Stripe,Processing fees,Expense,Processing Fees,0.0,6112.75,USD,1.0,-6112.75
+2026-03-11 00:00:00,Chase Business Checking,Accounting / bookkeeping,Expense,Accounting,0.0,692.2,USD,1.0,-692.2
+2026-03-12 00:00:00,Chase Business Credit Card,Notion subscription,Expense,Software,0.0,331.21,USD,1.0,-331.21
+2026-03-16 00:00:00,Stripe,Granite Larch Partners - invoice payment,Revenue,Client Revenue,68762.5,0.0,USD,1.0,68762.5
+2026-03-18 00:00:00,Chase Business Checking,Contractor payment,Expense,Contractors,0.0,4370.38,USD,1.0,-4370.38
+2026-03-18 00:00:00,Chase Business Checking,Quarterly tax payment,Expense,Taxes,0.0,59233.53,AED,0.2723,-16129.29022
+2026-03-21 00:00:00,Chase Business Credit Card,Travel expense,Expense,Travel,0.0,1201.67,USD,1.0,-1201.67
+2026-03-23 00:00:00,Chase Business Credit Card,Miscellaneous expense,Expense,Other,0.0,334.29,USD,1.0,-334.29
+2026-03-24 00:00:00,Stripe,Harborline Co - invoice payment,Revenue,Client Revenue,51284.88,0.0,USD,1.0,51284.88
+2026-03-24 00:00:00,Chase Business Checking,Payroll run,Expense,Payroll,0.0,15110.6,USD,1.0,-15110.6
+2026-03-24 00:00:00,Chase Business Credit Card,Ad platform charge,Expense,Advertising,0.0,18887.14,USD,1.0,-18887.14
+2026-03-27 00:00:00,Stripe,Cobalt Fern Studio - invoice payment,Revenue,Client Revenue,38924.48,0.0,USD,1.0,38924.48
+2026-03-30 00:00:00,Chase Business Credit Card,Office supplies / rent,Expense,Office,0.0,1089.88,USD,1.0,-1089.88
+2026-03-30 00:00:00,Chase Business Checking,Transfer to savings,Transfer,,0.0,47495.23,AED,0.2723,-12932.95113
+2026-04-01 00:00:00,Stripe,Granite Larch Partners - invoice payment,Revenue,Client Revenue,38474.27,0.0,USD,1.0,38474.27
+2026-04-03 00:00:00,Stripe,Granite Larch Partners - invoice payment,Revenue,Client Revenue,29903.46,0.0,USD,1.0,29903.46
+2026-04-03 00:00:00,Stripe,Northfield Group - invoice payment,Revenue,Client Revenue,36953.07,0.0,USD,1.0,36953.07
+2026-04-05 00:00:00,Chase Business Credit Card,Notion subscription,Expense,Software,0.0,465.2,USD,1.0,-465.2
+2026-04-07 00:00:00,Stripe,Processing fees,Expense,Processing Fees,0.0,6180.21,USD,1.0,-6180.21
+2026-04-09 00:00:00,Chase Business Credit Card,Fathom subscription,Expense,Software,0.0,390.54,USD,1.0,-390.54
+2026-04-10 00:00:00,Chase Business Credit Card,Ad platform charge,Expense,Advertising,0.0,16520.42,USD,1.0,-16520.42
+2026-04-11 00:00:00,Chase Business Credit Card,Office supplies / rent,Expense,Office,0.0,4604.47,AED,0.2723,-1253.797181
+2026-04-11 00:00:00,Chase Business Checking,Accounting / bookkeeping,Expense,Accounting,0.0,756.69,USD,1.0,-756.69
+2026-04-12 00:00:00,Chase Business Credit Card,HubSpot subscription,Expense,Software,0.0,1914.88,AED,0.2723,-521.421824
+2026-04-13 00:00:00,Stripe,Cobalt Fern Studio - invoice payment,Revenue,Client Revenue,39035.68,0.0,USD,1.0,39035.68
+2026-04-14 00:00:00,Chase Business Checking,Payroll run,Expense,Payroll,0.0,58003.21,AED,0.2723,-15794.27408
+2026-04-15 00:00:00,Chase Business Checking,Contractor payment,Expense,Contractors,0.0,1873.28,USD,1.0,-1873.28
+2026-04-18 00:00:00,Chase Business Checking,Contractor payment,Expense,Contractors,0.0,1448.42,USD,1.0,-1448.42
+2026-04-19 00:00:00,Stripe,Maplecrest Consulting - invoice payment,Revenue,Client Revenue,28670.2,0.0,USD,1.0,28670.2
+2026-04-20 00:00:00,Stripe,Summit Partners - invoice payment,Revenue,Client Revenue,128402.79,0.0,AED,0.2723,34964.07972
+2026-04-20 00:00:00,Chase Business Credit Card,Ad platform charge,Expense,Advertising,0.0,16479.58,USD,1.0,-16479.58
+2026-04-25 00:00:00,Chase Business Credit Card,Miscellaneous expense,Expense,Other,0.0,323.28,USD,1.0,-323.28
+2026-04-26 00:00:00,Chase Business Credit Card,Miscellaneous expense,Expense,Other,0.0,276.26,USD,1.0,-276.26
+2026-04-27 00:00:00,Chase Business Checking,Contractor payment,Expense,Contractors,0.0,1659.2,USD,1.0,-1659.2
+2026-04-29 00:00:00,Chase Business Checking,Payroll run,Expense,Payroll,0.0,13206.07,USD,1.0,-13206.07
+2026-04-29 00:00:00,Chase Business Checking,Transfer to savings,Transfer,,0.0,14142.21,USD,1.0,-14142.21
+2026-05-02 00:00:00,Chase Business Credit Card,Ad platform charge,Expense,Advertising,0.0,15119.09,USD,1.0,-15119.09
+2026-05-04 00:00:00,Stripe,Vale Ventures - invoice payment,Revenue,Client Revenue,36143.44,0.0,USD,1.0,36143.44
+2026-05-04 00:00:00,Stripe,Processing fees,Expense,Processing Fees,0.0,5904.16,USD,1.0,-5904.16
+2026-05-06 00:00:00,Chase Business Credit Card,Miscellaneous expense,Expense,Other,0.0,230.98,USD,1.0,-230.98
+2026-05-07 00:00:00,Chase Business Credit Card,Fathom subscription,Expense,Software,0.0,1374.69,AED,0.2723,-374.328087
+2026-05-08 00:00:00,Chase Business Credit Card,Notion subscription,Expense,Software,0.0,421.92,USD,1.0,-421.92
+2026-05-09 00:00:00,Chase Business Credit Card,Office supplies / rent,Expense,Office,0.0,619.26,USD,1.0,-619.26
+2026-05-09 00:00:00,Chase Business Checking,Accounting / bookkeeping,Expense,Accounting,0.0,1732.1,AED,0.2723,-471.65083
+2026-05-11 00:00:00,Chase Business Checking,Contractor payment,Expense,Contractors,0.0,2145.1,USD,1.0,-2145.1
+2026-05-13 00:00:00,Chase Business Checking,Payroll run,Expense,Payroll,0.0,14675.39,USD,1.0,-14675.39
+2026-05-14 00:00:00,Chase Business Checking,Payroll run,Expense,Payroll,0.0,15324.61,USD,1.0,-15324.61
+2026-05-15 00:00:00,Chase Business Checking,Contractor payment,Expense,Contractors,0.0,2010.94,USD,1.0,-2010.94
+2026-05-16 00:00:00,Stripe,Maplecrest Consulting - invoice payment,Revenue,Client Revenue,46138.6,0.0,USD,1.0,46138.6
+2026-05-16 00:00:00,Chase Business Credit Card,Office supplies / rent,Expense,Office,0.0,3081.96,AED,0.2723,-839.217708
+2026-05-18 00:00:00,Chase Business Credit Card,Travel expense,Expense,Travel,0.0,1985.61,USD,1.0,-1985.61
+2026-05-20 00:00:00,Chase Business Checking,Contractor payment,Expense,Contractors,0.0,1963.81,USD,1.0,-1963.81
+2026-05-20 00:00:00,Chase Business Credit Card,Ad platform charge,Expense,Advertising,0.0,76685.14,AED,0.2723,-20881.36362
+2026-05-21 00:00:00,Chase Business Credit Card,HubSpot subscription,Expense,Software,0.0,1030.72,AED,0.2723,-280.665056
+2026-05-23 00:00:00,Stripe,Summit Partners - invoice payment,Revenue,Client Revenue,158028.3,0.0,AED,0.2723,43031.10609
+2026-05-25 00:00:00,Chase Business Credit Card,HubSpot subscription,Expense,Software,0.0,317.96,USD,1.0,-317.96
+2026-05-25 00:00:00,Chase Business Credit Card,Miscellaneous expense,Expense,Other,0.0,1075.42,AED,0.2723,-292.836866
+2026-05-26 00:00:00,Chase Business Credit Card,Zoom subscription,Expense,Software,0.0,255.5,USD,1.0,-255.5
+2026-05-26 00:00:00,Chase Business Checking,Transfer to savings,Transfer,,0.0,32814.38,AED,0.2723,-8935.355674
+2026-05-27 00:00:00,Stripe,Cedar & Wren Advisory - invoice payment,Revenue,Client Revenue,41145.61,0.0,USD,1.0,41145.61
+2026-05-31 00:00:00,Stripe,Northfield Group - invoice payment,Revenue,Client Revenue,48542.18,0.0,USD,1.0,48542.18
+2026-06-02 00:00:00,Chase Business Credit Card,Ad platform charge,Expense,Advertising,0.0,34768.84,AED,0.2723,-9467.555132
+2026-06-03 00:00:00,Chase Business Checking,Contractor payment,Expense,Contractors,0.0,2590.42,USD,1.0,-2590.42
+2026-06-03 00:00:00,Chase Business Credit Card,Ad platform charge,Expense,Advertising,0.0,15093.57,USD,1.0,-15093.57
+2026-06-03 00:00:00,Chase Business Credit Card,Office supplies / rent,Expense,Office,0.0,635.45,USD,1.0,-635.45
+2026-06-05 00:00:00,Chase Business Credit Card,Miscellaneous expense,Expense,Other,0.0,382.67,USD,1.0,-382.67
+2026-06-06 00:00:00,Chase Business Credit Card,HubSpot subscription,Expense,Software,0.0,268.47,USD,1.0,-268.47
+2026-06-10 00:00:00,Chase Business Checking,Contractor payment,Expense,Contractors,0.0,10389.39,AED,0.2723,-2829.030897
+2026-06-13 00:00:00,Stripe,Summit Partners - invoice payment,Revenue,Client Revenue,34117.12,0.0,USD,1.0,34117.12
+2026-06-14 00:00:00,Chase Business Credit Card,Slack subscription,Expense,Software,0.0,295.68,USD,1.0,-295.68
+2026-06-15 00:00:00,Stripe,Amber Falcon Holdings - invoice payment,Revenue,Client Revenue,35278.96,0.0,USD,1.0,35278.96
+2026-06-16 00:00:00,Chase Business Credit Card,Zoom subscription,Expense,Software,0.0,257.85,USD,1.0,-257.85
+2026-06-17 00:00:00,Chase Business Credit Card,Ad platform charge,Expense,Advertising,0.0,11439.08,USD,1.0,-11439.08
+2026-06-17 00:00:00,Stripe,Processing fees,Expense,Processing Fees,0.0,6126.02,USD,1.0,-6126.02
+2026-06-17 00:00:00,Chase Business Credit Card,Travel expense,Expense,Travel,0.0,1211.99,USD,1.0,-1211.99
+2026-06-17 00:00:00,Chase Business Checking,Transfer to savings,Transfer,,0.0,14684.4,USD,1.0,-14684.4

@@ -1,0 +1,37 @@
+# Video Overview
+
+Course: Step #1: Time Block
+System: Personal System
+Skool link: https://www.skool.com/leadgenerationacademy/classroom/c15cebb8?md=e286a0a4dee6452883a42d0dcb01a69a
+
+---
+Video: this lesson has a video in Skool (about 7:00). Transcript is at the bottom of this file.
+
+This video will provide and overview of every step in the Time Blocking course.
+
+---
+
+## Video Transcript
+
+Automatic captions. Timestamps are minutes:seconds into the video.
+
+[0:00] Welcome to step one, which should be your very first action steps. If we're in here, we should be through the onboarding thing here. You can go back and see it and why it's important. But step one will be the very first of a long, long, long roadmap. But it's very, very important to essentially give you the time you need to execute. So so many people will just whine and kind of just be a complete baby and say, "You don't have time to do anything." And it's so infuriating. So if you are this person and you currently do this, just know that I actually
+
+[0:49] just feel my skin getting hot right now. Because honestly, just be better, and that's where time blocking comes in. So in kind of a sense, the whiny excuse making people are right, they probably don't have time because they don't time block. And they just exist in a world where everyone else can make their decisions and do whatever they want for them, basically. And that is not how you're going to be successful. Trust me, everyone has these same 24 hours. You, if this is you, just waste it. So essentially, what we're going to do is we're going to block off stuff in our calendar, very specific things to give us time to basically do the rest of the program and not to just do the rest of the program, but to actually do the stuff that is going to make us successful.
+
+[1:37] So you'll essentially see that I have some examples here of how I may block it off. You can really just put one big block off if you want in there. You don't have to do it quite like that. But let's break down one at a time. The first thing we're going to do and we're going to do this in the personal tracking course is we're going to start every day with a 15 minute daily setup where we track our time, we track our health and we track our finances. This to me, like when my life is not going right, this is one of the two things that I always default back to. Did I stop doing this? And almost instantly when I start doing this 15 minute daily setup, everything else falls into place. Very, very important.
+
+[2:23] The next is going to be blocking four hours per day for deep work. You are not going to be able to finish this basically school road map or figure out your ad campaigns or create content or do any of that kind of stuff if you don't have dedicated time to do so. And the first four hours after you wake up are when you're the most fresh, right? So I would always recommend blocking the first four hours of your day if you're truly a night person and it is what it is, then you can do it later, but as long as you get it done, I would not really recommend blocking four random hours of the day, even if it's repetitive. You want to get in a rhythm, you want to get that deep work done. So of course, you can do it whenever you want,
+
+[3:09] but there are also some functional limitations to this. For example, if you're going to do four hours per day, you can't wake up at 9 a.m. That's going to take up all the business hours. So realistically, if you do it in the morning, you're probably going to have to get up early. If you don't do that already, if you do it at night, don't do it so late where you put it off as long as you get them done. To me, it's fine, but this is the ideal way to do it. The next is going to be what we're going to be referred to as the daily 2.0 you hour. Remember yourself or people are their own worst enemy, 99% of the time. So we need to have a set time each day to work on the new version of ourself. Self image we're talking about, these skills, the beliefs, the character traits, all that kind of stuff,
+
+[3:56] and put this as the same time every day. If you don't already, we're also going to block three one hour sessions off for the gym because everything is connected. If we have a better body, we have a better physical health, we're going to have a better mind, we're going to have a better heart, we're going to have a better confidence, we're going to have a better soul, all the above, and three sessions is good enough. So Monday, Wednesday, Friday, Tuesday, Thursday, Saturday, every second day, like whatever you want to do. If you are already a meathead and you're doing this, you can do more sessions than that. But for most people who just want to be healthier, build a little muscle, look better, be more confident. That's what we're going to do. The next is going to be an anti-worry hour. So once per week usually, I like to do mine on Wednesday. And the reason for this is we're going to, in a following step,
+
+[4:44] create what we're going to call the anti-worry list. It's all of those things, I like two minute tasks, five minute, ten minute, you know. The long list of just 10, 20, 30 different tasks that don't take very long or just might worry us, but we never actually get around to. We're going to structure this so we actually get an hour of work on these tasks every week because a lot of the tasks that cause these problems and cause these little worries, really take a couple of minutes. We just never get around to them. It's very good. And then when we do this, I have no doubt you're going to have some commitments in those times. If they are recurring commitments, rearrange them. If they're one off, you can just kind of do them for this week or next week and then have it free up after. But again, you want to be successful or not, right?
+
+[5:30] And that's is what it is. If you don't, I don't know why you're in the school group, but it's very possible to do. And everything otherwise is quite frankly just an excuse. Then after a week or after a couple of weeks, and when you finalize a new schedule, look at this. In this example, you still have one p.m. all the way to five p.m. to do everything else you, you know, had to do. Even if you're like a family man or a family woman, you have five p.m. to nine p.m. to be with your family, too, after already doing all of your work and this stuff. So I'm not very sympathetic to anyone who is going to whine about this. And if you're not going to do this, I don't know why you're here. But if you are going to do this, it's probably one of the top five most transformational things you can do for your business and your life.
+
+[6:18] And it literally takes a few minutes to set up. So normally, if you're going to do this in your Google calendar, your outlook, your Apple, if you use Yahoo or calendar, I'm probably going to kick you out if you come to me and say that you actually use a Yahoo calendar notion, I guess. But for most people, it's going to be Google or outlook. Once you're done, go through the completion checklist. It's kind of a summary of all the steps. And this, like I said, I'm not going to bring this up in future videos. But this is that help thing. So if you see something anywhere throughout this course, school anything that is messed up, you can submit this. And it will ping right to our slot channel and we'll fix it right away. So yes, time blocking, it's the first step in one of a very, very, very important things to be doing.
+
+
+# Step #2: Buy

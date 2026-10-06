@@ -1,0 +1,27 @@
+Dashboard,,,,,,,,,
+"Purpose: See the whole year at a glance, what it costs you to generate a call booked, a call shown, and a completed qualified call.",,,,,,,,,
+,,,,,,,,,
+Legend:,,,,Auto-calculated,,,,Total (auto-calculated),
+,,,,,,,,,
+,,,,,,,,,
+Instructions,,,,,,,,,
+"1. Every number here pulls automatically from the Paid Ads and Expense tabs, there's nothing to enter on this tab.",,,,,,,,,
+"2. Total Acquisition Spend is Ad Spend plus Other Expenses, that's what you're actually paying to generate calls.",,,,,,,,,
+"3. Cost Per Call Booked, Cost Per Call Shown, and Cost Per Qualified Call all divide Total Acquisition Spend by that stage's call count.",,,,,,,,,
+4. The Total row at the bottom rolls up the full year.,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Month,Ad Spend,Other Expenses,Total Acquisition Spend,Calls Booked,Calls Shown,Qualified Calls,Cost Per Call Booked,Cost Per Call Shown,Cost Per Qualified Call
+January,0,0,0,0,0,0,0,0,0
+February,0,0,0,0,0,0,0,0,0
+March,0,0,0,0,0,0,0,0,0
+April,0,0,0,0,0,0,0,0,0
+May,0,0,0,0,0,0,0,0,0
+June,0,0,0,0,0,0,0,0,0
+July,0,0,0,0,0,0,0,0,0
+August,0,0,0,0,0,0,0,0,0
+September,0,0,0,0,0,0,0,0,0
+October,0,0,0,0,0,0,0,0,0
+November,0,0,0,0,0,0,0,0,0
+December,0,0,0,0,0,0,0,0,0
+Total,0,0,0,0,0,0,0,0,0

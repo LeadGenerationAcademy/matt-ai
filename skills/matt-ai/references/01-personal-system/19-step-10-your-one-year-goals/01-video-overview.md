@@ -1,0 +1,32 @@
+# Video Overview
+
+Course: Step #10: Your One Year Goals
+System: Personal System
+Skool link: https://www.skool.com/leadgenerationacademy/classroom/cddfef59?md=dd7a38c99d6943a6be6aeecad2560153
+
+---
+Video: this lesson has a video in Skool (about 5:54). Transcript is at the bottom of this file.
+
+_The written content of this lesson is the video transcript below._
+
+---
+
+## Video Transcript
+
+Automatic captions. Timestamps are minutes:seconds into the video.
+
+[0:00] So, this one is going to be about your one-year goals. And basically, the reason I have this is that your life vision and your top five pillars are just so far into the future that we obviously probably aren't even going to know what we have to do now. But we do know what we can do in the next year type thing and then the following is going to reveal itself. So, basically, we're going to turn our life vision into four one-year goals that we're obviously going to achieve in the next 12 months. And then we're going to break those one-year goals down into 90-day objectives so everything you can do in the next 90 days. And then we're going to eventually schedule and delegate them if we have a team as well. So, think of the life vision to one-year, all the tasks that you could possibly do that
+
+[0:49] you could think of, which one of those tasks or which, like, all of those tasks you'll do the next 90 days and then schedule them. So, there's no real examples for this step, but we're going to do this at a one-hour timer too. So, make sure, just like the life vision one, you put this one-year timer. So, we're going to basically turn our five pillars into essentially one-year goals. So, mine, I'm just going to use the actual ones. I want to build this school to 200K MRR in the next 12 months, 200K MRR for my hyper-optimal app. I want to get a content system that posts 200 posts per week on all platforms combined, not 200 literally. And then I want to make 25 full YouTube courses. So, those are my goals that I will be doing over the next 12 months.
+
+[1:38] So, once you get those goals, we want to use, kind of, I like to use the smart goal. So, basically, the S stands for specific, M stands for measurable, A is achievable, R is basically relevant to our life vision, and then T is time bound. Sometimes R and there will be reasonable, but I think that's kind of too close to achievable, you know what I mean? Come on. So, we're going to use this one here. There's going to be the goal template in here. You're going to take your one-year goals, and then once you do that, and once you've applied smart to that, we're basically going to define the purpose. So, we have the overall life vision, but now we want to do kind of the exact same thing
+
+[2:24] we did before for these one-year goals, because a lot of the time we're going to look at these one-year goals a lot more often than we are going to look at the life vision on a day-to-day, because remember, we're going to be planning all of our stuff, like, from these goals, and like, all of our actions. So, we're going to have this up on a daily, sometimes, hourly basis, and we want to put that same thing in here as well. After we're done that, we're going to make a, basically, a list of every single possible action that we can do to achieve the goals. This will be a running list, and you're going to add stuff as it comes to you. And then what we're going to do here is when we go through the list, basically, like, let's say we have, let's just say we have a hundred actions for each.
+
+[3:13] Let's just say that as a nice, round number. We're going to put a check mark, and we're going to transfer everything of those that are possible within the next 90 days, because a lot of them might not be possible, et cetera. One thing to do on these lists, like, these things should be stuff that you can schedule on a calendar. If you can't schedule these things on a calendar, it doesn't count, basically, like, make a YouTube course. That doesn't really count. That's not something you can schedule. It's like, okay, make the title, make the thumbnail, make the outline. These are things that you can do to actually do it. What we're going to do here is we're going to transfer the plan to the warm up. Hopefully you bookmarked that. You should have that bookmarked, but the link will be here too. Then we're going to schedule tasks for the next 90 days in our warm up, and then I'm going
+
+[4:00] to do a whole, so basically, step five here, and then step 10, we're also going to have individual videos and you should watch those, because it's pretty important. You're going to schedule the tasks for the next 90 days. What you're going to do when you have these tasks is you are going to put a time limit in terms of minutes. You're going to put the person to do those tasks, because a lot of the time you'll have employees or helpers, and then they can do tasks, and then you can gain a lot of leverage doing that. Then you're going to put a priority. We're going to do the S tier A, B, C, D, E. So S basically means like, you have to do it now. This should be sparingly because this blocks multiple other things. A is important and urgent. B is important, but not urgent. C is something you need to do eventually.
+
+[4:48] D means you'll delegate it to someone else, regardless of how important it is or isn't, and E is, you should eliminate it. You put it on the list at one point, but now you realize it's stupid and you don't need to do it. Then what we're going to do is for the next week, for the first week, and eventually we're going to do this as part of our 2.0 hour ongoing. We're going to schedule the tasks. If you have someone helping you, make sure they have a warm-up tube that you have access to, and we're going to schedule 3-5 tasks per day for every one of our people who are going to be helping us and ourselves. If it's just you, it's just you, that's fine. Basically going to estimate these things, 3-5 tasks per day. If they're bigger tasks, then you'll obviously schedule closer to 3 things, if they're smaller
+
+[5:33] tasks, then 5 things, and then your day just becomes, okay, my success for the day is getting these 3-5 things done and ignoring everything else, and then just stop when the hour ends. This is meant to be like a 1 hour time period. You're never going to get it perfect in here. It's more like you are just going to get the basis done. If you need the links and stuff, they'll be here, completion checklist here, and so on.

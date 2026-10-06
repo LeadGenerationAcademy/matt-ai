@@ -1,0 +1,27 @@
+Category Breakdown,,,,,,,,,,,,,
+"Purpose: See exactly where your revenue and expenses are coming from and going to, by category, every month and for the year.",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Legend:,,,,Auto-calculated,,,,Total (auto-calculated),,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Instructions,,,,,,,,,,,,,
+1. Every number here pulls automatically from the Transactions tab based on each transaction's Category.,,,,,,,,,,,,,
+"2. Revenue categories show as positive, expense categories show as negative, that's real cash movement for that category.",,,,,,,,,,,,,
+"3. If you add a new category on the Transactions tab, add a matching row here so it shows up.",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Category,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+Client Revenue,0,0,0,0,0,0,0,0,0,0,0,0,0
+Payroll,0,0,0,0,0,0,0,0,0,0,0,0,0
+Contractors,0,0,0,0,0,0,0,0,0,0,0,0,0
+Advertising,0,0,0,0,0,0,0,0,0,0,0,0,0
+Software,0,0,0,0,0,0,0,0,0,0,0,0,0
+Processing Fees,0,0,0,0,0,0,0,0,0,0,0,0,0
+Office,0,0,0,0,0,0,0,0,0,0,0,0,0
+Travel,0,0,0,0,0,0,0,0,0,0,0,0,0
+Legal,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accounting,0,0,0,0,0,0,0,0,0,0,0,0,0
+Refunds,0,0,0,0,0,0,0,0,0,0,0,0,0
+Taxes,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,0,0,0,0,0,0,0,0,0,0,0,0,0
+Total,0,0,0,0,0,0,0,0,0,0,0,0,0

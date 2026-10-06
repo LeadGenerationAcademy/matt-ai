@@ -1,0 +1,70 @@
+# Formulas
+
+Cell references point at the CSV files in this folder (same sheet names).
+
+## Reverse Engineering
+
+One line per row; consecutive rows with the same formula pattern are listed once.
+
+- row 17 (Net Profit Goal): D17 =IFERROR((C17-B17)/ABS(B17),0)
+- row 19 (Revenue Required): B19 =IFERROR(B17/B18,0); C19 =IFERROR(C17/C18,0); D19 =IFERROR((C19-B19)/ABS(B19),0)
+- row 21 (Monthly Churn Rate): D21 =IFERROR((C21-B21)/ABS(B21),0)
+- row 22 (Avg. Client Relationship (Months)): B22 =IFERROR(1/B21,0); C22 =IFERROR(1/C21,0); D22 =IFERROR((C22-B22)/ABS(B22),0)
+- row 24 (Median Monthly Retainer): D24 =IFERROR((C24-B24)/ABS(B24),0)
+- row 25 (Avg. LTV Per Client): B25 =IFERROR(B24*B22,0); C25 =IFERROR(C24*C22,0); D25 =IFERROR((C25-B25)/ABS(B25),0)
+- row 26 (Clients Required): B26 =IFERROR(B19/B25,0); C26 =IFERROR(C19/C25,0); D26 =IFERROR((C26-B26)/ABS(B26),0)
+- row 28 (Close Rate (Booked Call)): D28 =IFERROR((C28-B28)/ABS(B28),0)
+- row 29 (Calls Required): B29 =IFERROR(B26/B28,0); C29 =IFERROR(C26/C28,0); D29 =IFERROR((C29-B29)/ABS(B29),0)
+- row 30 (Working Days Per Year): D30 =IFERROR((C30-B30)/ABS(B30),0)
+- row 31 (Calls Per Day Required): B31 =IFERROR(B29/B30,0); C31 =IFERROR(C29/C30,0); D31 =IFERROR((C31-B31)/ABS(B31),0)
+- row 32 (Calls Per Week Required): B32 =IFERROR(B29/52,0); C32 =IFERROR(C29/52,0); D32 =IFERROR((C32-B32)/ABS(B32),0)
+- row 33 (Calls Per Month Required): B33 =IFERROR(B29/12,0); C33 =IFERROR(C29/12,0); D33 =IFERROR((C33-B33)/ABS(B33),0)
+- row 34 (Calls a Closer Takes / Week): D34 =IFERROR((C34-B34)/ABS(B34),0)
+- row 35 (Closers Required): B35 =IFERROR(B32/B34,0); C35 =IFERROR(C32/C34,0); D35 =IFERROR((C35-B35)/ABS(B35),0)
+- row 36 (Calls a Setter Books / Week): D36 =IFERROR((C36-B36)/ABS(B36),0)
+- row 37 (Appt Setters Required): B37 =IFERROR(B32/B36,0); C37 =IFERROR(C32/C36,0); D37 =IFERROR((C37-B37)/ABS(B37),0)
+- row 39 (Cost Per Call (Ads)): D39 =IFERROR((C39-B39)/ABS(B39),0)
+- row 40 (Daily Ad Spend Required): B40 =IFERROR(B31*B39,0); C40 =IFERROR(C31*C39,0); D40 =IFERROR((C40-B40)/ABS(B40),0)
+- row 44 (Net Profit Goal): D44 =IFERROR((C44-B44)/ABS(B44),0)
+- row 46 (Revenue Required): B46 =IFERROR(B44/B45,0); C46 =IFERROR(C44/C45,0); D46 =IFERROR((C46-B46)/ABS(B46),0)
+- row 48 (Monthly Churn Rate): D48 =IFERROR((C48-B48)/ABS(B48),0)
+- row 49 (Avg. Client Relationship (Months)): B49 =IFERROR(1/B48,0); C49 =IFERROR(1/C48,0); D49 =IFERROR((C49-B49)/ABS(B49),0)
+- row 51 (Median Monthly Retainer): D51 =IFERROR((C51-B51)/ABS(B51),0)
+- row 52 (Avg. LTV Per Client): B52 =IFERROR(B51*B49,0); C52 =IFERROR(C51*C49,0); D52 =IFERROR((C52-B52)/ABS(B52),0)
+- row 53 (Clients Required): B53 =IFERROR(B46/B52,0); C53 =IFERROR(C46/C52,0); D53 =IFERROR((C53-B53)/ABS(B53),0)
+- row 55 (Close Rate (Booked Call)): D55 =IFERROR((C55-B55)/ABS(B55),0)
+- row 56 (Calls Required): B56 =IFERROR(B53/B55,0); C56 =IFERROR(C53/C55,0); D56 =IFERROR((C56-B56)/ABS(B56),0)
+- row 57 (Working Days Per Year): D57 =IFERROR((C57-B57)/ABS(B57),0)
+- row 58 (Calls Per Day Required): B58 =IFERROR(B56/B57,0); C58 =IFERROR(C56/C57,0); D58 =IFERROR((C58-B58)/ABS(B58),0)
+- row 59 (Calls Per Week Required): B59 =IFERROR(B56/52,0); C59 =IFERROR(C56/52,0); D59 =IFERROR((C59-B59)/ABS(B59),0)
+- row 60 (Calls Per Month Required): B60 =IFERROR(B56/12,0); C60 =IFERROR(C56/12,0); D60 =IFERROR((C60-B60)/ABS(B60),0)
+- row 61 (Calls a Closer Takes / Week): D61 =IFERROR((C61-B61)/ABS(B61),0)
+- row 62 (Closers Required): B62 =IFERROR(B59/B61,0); C62 =IFERROR(C59/C61,0); D62 =IFERROR((C62-B62)/ABS(B62),0)
+- row 63 (Calls a Setter Books / Week): D63 =IFERROR((C63-B63)/ABS(B63),0)
+- row 64 (Appt Setters Required): B64 =IFERROR(B59/B63,0); C64 =IFERROR(C59/C63,0); D64 =IFERROR((C64-B64)/ABS(B64),0)
+- row 66 (Cost Per Call (Ads)): D66 =IFERROR((C66-B66)/ABS(B66),0)
+- row 67 (Daily Ad Spend Required): B67 =IFERROR(B58*B66,0); C67 =IFERROR(C58*C66,0); D67 =IFERROR((C67-B67)/ABS(B67),0)
+
+## Reverse Engineering Example
+
+One line per row; consecutive rows with the same formula pattern are listed once.
+
+- row 17 (Net Profit Goal): D17 =IFERROR((C17-B17)/ABS(B17),0)
+- row 19 (Revenue Required): B19 =IFERROR(B17/B18,0); C19 =IFERROR(C17/C18,0); D19 =IFERROR((C19-B19)/ABS(B19),0)
+- row 21 (Monthly Churn Rate): D21 =IFERROR((C21-B21)/ABS(B21),0)
+- row 22 (Avg. Client Relationship (Months)): B22 =IFERROR(1/B21,0); C22 =IFERROR(1/C21,0); D22 =IFERROR((C22-B22)/ABS(B22),0)
+- row 24 (Median Monthly Retainer): D24 =IFERROR((C24-B24)/ABS(B24),0)
+- row 25 (Avg. LTV Per Client): B25 =IFERROR(B24*B22,0); C25 =IFERROR(C24*C22,0); D25 =IFERROR((C25-B25)/ABS(B25),0)
+- row 26 (Clients Required): B26 =IFERROR(B19/B25,0); C26 =IFERROR(C19/C25,0); D26 =IFERROR((C26-B26)/ABS(B26),0)
+- row 28 (Close Rate (Booked Call)): D28 =IFERROR((C28-B28)/ABS(B28),0)
+- row 29 (Calls Required): B29 =IFERROR(B26/B28,0); C29 =IFERROR(C26/C28,0); D29 =IFERROR((C29-B29)/ABS(B29),0)
+- row 30 (Working Days Per Year): D30 =IFERROR((C30-B30)/ABS(B30),0)
+- row 31 (Calls Per Day Required): B31 =IFERROR(B29/B30,0); C31 =IFERROR(C29/C30,0); D31 =IFERROR((C31-B31)/ABS(B31),0)
+- row 32 (Calls Per Week Required): B32 =IFERROR(B29/52,0); C32 =IFERROR(C29/52,0); D32 =IFERROR((C32-B32)/ABS(B32),0)
+- row 33 (Calls Per Month Required): B33 =IFERROR(B29/12,0); C33 =IFERROR(C29/12,0); D33 =IFERROR((C33-B33)/ABS(B33),0)
+- row 34 (Calls a Closer Takes / Week): D34 =IFERROR((C34-B34)/ABS(B34),0)
+- row 35 (Closers Required): B35 =IFERROR(B32/B34,0); C35 =IFERROR(C32/C34,0); D35 =IFERROR((C35-B35)/ABS(B35),0)
+- row 36 (Calls a Setter Books / Week): D36 =IFERROR((C36-B36)/ABS(B36),0)
+- row 37 (Appt Setters Required): B37 =IFERROR(B32/B36,0); C37 =IFERROR(C32/C36,0); D37 =IFERROR((C37-B37)/ABS(B37),0)
+- row 39 (Cost Per Call (Ads)): D39 =IFERROR((C39-B39)/ABS(B39),0)
+- row 40 (Daily Ad Spend Required): B40 =IFERROR(B31*B39,0); C40 =IFERROR(C31*C39,0); D40 =IFERROR((C40-B40)/ABS(B40),0)

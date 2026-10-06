@@ -1,0 +1,27 @@
+Dashboard,,,,,,,,,
+"Purpose: See the whole year at a glance, what it costs you to generate a call booked, a call shown, and a completed qualified call.",,,,,,,,,
+,,,,,,,,,
+Legend:,,,,Auto-calculated,,,,Total (auto-calculated),
+,,,,,,,,,
+,,,,,,,,,
+Instructions,,,,,,,,,
+"1. Every number here pulls automatically from the Paid Ads and Expense tabs, there's nothing to enter on this tab.",,,,,,,,,
+"2. Total Acquisition Spend is Ad Spend plus Other Expenses, that's what you're actually paying to generate calls.",,,,,,,,,
+"3. Cost Per Call Booked, Cost Per Call Shown, and Cost Per Qualified Call all divide Total Acquisition Spend by that stage's call count.",,,,,,,,,
+4. The Total row at the bottom rolls up the full year.,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Month,Ad Spend,Other Expenses,Total Acquisition Spend,Calls Booked,Calls Shown,Qualified Calls,Cost Per Call Booked,Cost Per Call Shown,Cost Per Qualified Call
+January,29131.36,11209.12,40340.48,209,129,107,193.0166507,312.7168992,377.0138318
+February,27794.01,10816.87,38610.88,219,149,118,176.3053881,259.1334228,327.2108475
+March,32225.59,10683.48,42909.07,228,142,119,188.1976754,302.1765493,360.5804202
+April,33046.35,10985.64,44031.99,242,166,135,181.9503719,265.2529518,326.1628889
+May,36223.02,10400.37,46623.39,231,144,109,201.8328571,323.7735417,427.7375229
+June,36270.77,10882.35,47153.12,231,145,115,204.1260606,325.193931,410.0271304
+July,39369.73,11767.44,51137.17,242,165,126,211.3106198,309.9222424,405.8505556
+August,40728.99,11578,52306.99,245,152,119,213.4979184,344.1249342,439.5545378
+September,39992.22,10820.59,50812.81,239,159,130,212.6058996,319.5774214,390.8677692
+October,43383.61,11272.21,54655.82,245,149,115,223.0849796,366.8175839,475.268
+November,43348.95,11359.48,54708.43,234,143,119,233.7967094,382.5764336,459.7347059
+December,46277.87,12277.85,58555.72,261,174,145,224.3514176,336.5271264,403.8325517
+Total,447792.47,134053.4,581845.87,2826,1817,1457,205.8902583,320.2233737,399.3451407

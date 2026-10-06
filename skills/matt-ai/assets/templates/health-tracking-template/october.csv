@@ -1,0 +1,56 @@
+October,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"Purpose: Log Weight, Sleep, Nutrition, and Activity once per day so you have a single organized record of your health for the month.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Legend:,,,Weight,,,Loss & Activity,,,Sleep,,,Nutrition & Calories,,,Auto-calculated Week,,,Auto-calculated Month,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Instructions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"1. Fill in one row per day, leave a cell blank on any day you did not track that metric.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"2. Weight Change, Time In Bed, Sleep Efficiency, Sleep Debt, Calorie Variance, Wearable Net Burn, Theoretical Weight Change, and Actual Weight Change are automatically calculated from other columns in that same row, do not type into them. On the first day of the month, Weight Change and Actual Weight Change pull from the last day of the previous month’s tab, so keep the tabs in order.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"3. Each 7-day week automatically totals or averages into the purple Week row beneath it, do not edit the Week rows directly.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"4. The red Total row at the very bottom of this tab automatically calculates the entire month, do not edit it directly.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"5. Phone Outside Bedroom, 500 mL Of Water, 20-Minute Treadmill Walk, Five-Minute Stretch, and Workout/Lift are checkboxes (TRUE or FALSE) for whether you did that thing that day.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"6. Zone 2 Cardio Time is logged in minutes, PRs is the number of personal records you hit that day, and Workout Split is free text for which workout you did (for example Push, Pull, Legs, or Rest).",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,7. Leave any wearable field blank if your device does not provide it.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"8. Weight and Tonnage can be logged in pounds or kilograms, set your choice on the Dashboard and use it consistently.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9. Sleep Debt is measured against an 8-hour sleep target.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Date,Weight,Weight Change,Wearable Sleep Score,Phone Outside Bedroom,Wake Up Time,Bed Time,Time In Bed,Wearable Total Sleep,Sleep Latency,Sleep Efficiency,Wearable REM Sleep,Wearable Deep Sleep,Sleep Debt,500 mL Of Water,Planned Calories,Total Calories,Calorie Variance,Fat (g),Protein (g),Carbohydrates (g),Wearable Total Burn,Wearable Net Burn,Theoretical Weight Change,Actual Weight Change,Steps,Zone 2 Cardio Time (min),20-Minute Treadmill Walk,Five-Minute Stretch,Workout/Lift
+2026-10-01 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-02 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-03 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-04 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-05 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-06 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-07 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+Week,,,,0,,,,,,,,,,0,,,,,,,,,,,,,0,0,0
+2026-10-08 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-09 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-10 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-11 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-12 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-13 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-14 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+Week,,,,0,,,,,,,,,,0,,,,,,,,,,,,,0,0,0
+2026-10-15 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-16 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-17 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-18 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-19 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-20 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-21 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+Week,,,,0,,,,,,,,,,0,,,,,,,,,,,,,0,0,0
+2026-10-22 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-23 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-24 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-25 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-26 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-27 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-28 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+Week,,,,0,,,,,,,,,,0,,,,,,,,,,,,,0,0,0
+2026-10-29 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-30 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+2026-10-31 00:00:00,,,,False,,,,,,,,,,False,,,,,,,,,,,,,False,False,False
+Week,,,,0,,,,,,,,,,0,,,,,,,,,,,,,0,0,0
+Total,,,,0,,,,,,,,,,0,,,,,,,,,,,,,0,0,0

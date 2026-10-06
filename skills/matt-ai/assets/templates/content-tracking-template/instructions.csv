@@ -1,0 +1,36 @@
+Content Tracking Spreadsheet,
+,Keep every piece of content from every personal account inside one organized place.
+,It updates automatically once per day so you always know exactly what you have posted and how it is performing.
+,"You can create additional tabs inside this same Spreadsheet for Content Strategy, Content Calendar, and Content Ideas."
+,"This keeps the entire Content System in one place. If you prefer separate documents, that is fine too."
+,
+How It Works,
+,All Content holds everything from every platform.
+,"The six platform tabs hold the same posts, split out one platform per tab."
+,Nothing in this Spreadsheet gets typed by hand. The daily script writes All Content and every platform tab on the same run.
+,
+What Gets Tracked,
+,"Connect every personal account you post from, including every YouTube channel you run."
+,This Spreadsheet is for your personal Content System. Company-account tracking can be handled separately if necessary.
+,Leave any column blank when it is irrelevant to your strategy or unavailable on that platform.
+,"The purpose is to make the Spreadsheet useful, not to fill it with unnecessary metrics because they look impressive."
+,
+The Daily Script,
+,"1. Open this Spreadsheet in Google Sheets and go to Extensions, then Apps Script."
+,2. Ask ChatGPT to write the Google Apps Script for you and to explain exactly where to paste it. Do not worry if you do not know how to write Apps Script. Tell it the script needs to:
+,          Find new content from all six platforms
+,          Add new posts to the All Content tab
+,          Write each post to its matching platform tab as well
+,          Recognize posts already inside the Spreadsheet
+,          Update the latest performance metrics
+,          Avoid creating duplicate rows
+,          Update every connected YouTube channel
+,          Run automatically once per day
+,          Keep the latest metrics updated in the existing rows instead of saving a new historical snapshot every day
+,3. Paste the script into the Apps Script editor and save it.
+,4. Run the update function once by hand and authorize every permission Google asks for.
+,"5. Open Triggers, behind the clock icon in the left sidebar of the Apps Script editor."
+,"6. Add a trigger that runs the update function on a time-driven day timer, once per day."
+,7. Confirm new rows appear on All Content and on the matching platform tabs.
+,
+,"If new posts stop appearing later on, open Apps Script and check that the trigger is still active and the authorizations have not expired."

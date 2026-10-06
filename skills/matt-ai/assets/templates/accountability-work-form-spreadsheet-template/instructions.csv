@@ -1,0 +1,16 @@
+How To Set Up Your Leaderboard
+""
+""
+SETUP
+"1. Rename each Work Form response tab to that person's name followed by ""'s Work Form"" (e.g. ""Matt"" > ""Matt's Work Form"")."
+"2. Type that same name into column A of the Leaderboard tab, spelled exactly the same way (e.g. ""Matt"")."
+3. Do the same for everyone in the group. One tab and one row each.
+4. Add names further down column A of the Leaderboard tab as people join. The formulas cover the new rows on their own.
+""
+RULES
+Only ever type in column A of the Leaderboard tab.
+"The tab name and the Leaderboard name have to match exactly (e.g. ""Matt's Work Form"" pairs with ""Matt""). ""Matts Work Form"" or ""Matt's work form"" will not."
+"Do not reorder or delete questions on the Work Form. The formulas read Date from column B and Hour Number from column D of each response tab, so moving the questions moves the columns and the counts go wrong."
+""
+TROUBLESHOOTING
+"A row of zeroes means that person has not submitted anything yet, the tab name and the Leaderboard name do not match, or the Date column is holding text instead of real dates."

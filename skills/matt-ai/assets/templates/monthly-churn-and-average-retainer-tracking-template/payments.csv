@@ -1,0 +1,13 @@
+Payments,,,,
+"Purpose: Log every payment you receive, so Client Data and the Dashboard can calculate accurate payment numbers.",,,,
+,,,,
+Legend:,,,Editable,
+,,,,
+,,,,
+Instructions:,,,,
+1. Log one row every time you receive a payment. Use the client's email so it matches back to Client Data.,,,,
+2. Backfill your last 6 to 12 months of payments first.,,,,
+"3. Keep logging every new payment going forward, in real time.",,,,
+,,,,
+,,,,
+Date,Customer Name,Customer Email,Amount Paid,Net Amount (Earnings)

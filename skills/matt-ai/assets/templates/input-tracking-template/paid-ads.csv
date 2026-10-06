@@ -1,0 +1,18 @@
+Paid Ads,,,,,,,,,,,
+Purpose: Track your daily paid ads performance across every campaign.,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Legend:,,Editable,,,,Total (auto-calculated),,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Instructions,,,,,,,,,,,
+1. Fill in the Date for each day you have ad data.,,,,,,,,,,,
+"2. Fill in CPM, Outbound Click-Through Rate %, Outbound Clicks, and Cost Per Outbound Click.",,,,,,,,,,,
+3. Fill in Results and Cost Per Result.,,,,,,,,,,,
+"4. Fill in Application Rate if you run an application funnel, or Schedule Rate if you run a schedule-a-call funnel, you usually only need one.",,,,,,,,,,,
+5. Do this every day you have ad data to log.,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Date,CPM,Outbound Click-Through Rate %,Outbound Clicks,Cost Per Outbound Click,Results,Cost Per Result,Application Rate,Schedule Rate,,Column Totals,
+,,,,,,,,,,Outbound Clicks,0
+,,,,,,,,,,Results,0

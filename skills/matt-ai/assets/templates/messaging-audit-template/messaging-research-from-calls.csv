@@ -1,0 +1,43 @@
+Messaging Research,,,,,,,,,,,,,
+Purpose: Record the exact language your prospects use on sales calls so you can mirror your Messaging for your ads and content.,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Instructions:,,,,,,,,,,,,,
+1. Complete the ICP Exercise and Messaging Audit first if you haven't. You need to know whose language you're looking for.,,,,,,,,,,,,,
+"2. Export the recordings, transcripts, or notes from at least 100 recent sales calls. If you have fewer than 100, export all of them. If you have no sales calls yet, skip to Step #2B.",,,,,,,,,,,,,
+"3. Use the prompt below to have ChatGPT or Claude fill in this sheet from your sales call transcripts. Make sure its the full raw transcript, and not a summary.",,,,,,,,,,,,,
+4. Find what keeps repeating across the calls. That's what your Messaging should reflect.,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Prospect Name,Prospect Email,Prospect Phone Number,Call Transcript,,Their main problem,Their current circumstances,Their desired outcome,Why they wanted to solve the problem now,What they had already tried,Why those previous solutions failed,Their main objections,,
+,,,,,,,,,,,,,Notes
+,,,,,,,,,,,,,• One row per call. 
+,,,,,,,,,,,,,"• You can either paste in your full text transcript in the Call Transcript column, or the link to it."
+,,,,,,,,,,,,,"• Leave a field blank if the call transcript doesn't cover it, rather than guessing."
+,,,,,,,,,,,,,• You can paste more than one call transcript at once using the prompt below.
+,,,,,,,,,,,,,"• Use the prompt below with ChatGPT or Claude. Paste the prompt, then paste one or more call transcripts right after it."
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,Prompt (paste into ChatGPT or Claude along with one or more call transcripts)
+,,,,,,,,,,,,,Double click the row below to open the full prompt.
+,,,,,,,,,,,,,"Pulls the customer's own words on their problem, situation, and objections out of a sales call transcript.
+
+I will paste one or more call transcripts below, separated by a line of dashes (---) between each one. Treat everything between one --- and the next as a single, separate call. If I only paste one transcript, just treat it as one call.
+
+For each transcript, pull out the following, using only what is actually said in that call. Where possible, stay close to the prospect's own words rather than paraphrasing heavily. If something cannot be determined for a specific field, put ""N/A"" in that field rather than guessing or stretching a loose connection to fill it in.
+
+1. **Prospect Name** — if stated in the transcript, otherwise N/A.
+2. **Prospect Email** — if stated, otherwise N/A.
+3. **Prospect Phone Number** — the number as stated. If the transcript gives conflicting numbers, use the one that appears most clearly correct and do not add commentary or notes inside this field. If no number is stated, put N/A.
+4. **Their main problem** — the core problem or pain point they describe. If none is discussed, put N/A.
+5. **Their current circumstances** — their situation right now as it relates to this problem. If this isn't discussed, put N/A.
+6. **Their desired outcome** — what they say they actually want to happen. If this isn't discussed, put N/A.
+7. **Why they wanted to solve the problem now** — only fill this in if they describe a specific event, deadline, or change that created urgency right now. A general attitude, personality trait, or ongoing habit does not count as a reason for timing. If no specific trigger for ""why now"" is mentioned, put N/A.
+8. **What they had already tried** — any prior solutions, tools, or approaches they mention having tried. If none are mentioned, put N/A.
+9. **Why those previous solutions failed** — whatever they say went wrong with what they tried before. If this isn't discussed, put N/A.
+10. **Their main objections** — only include real pushback, hesitation, or a stated concern about moving forward. Do not count neutral, curious, or clarifying questions as objections (for example, asking how something works, what it costs, or when it's available). If the prospect raised no actual concern or hesitation, put N/A.
+
+Output your answer as a Markdown table with exactly these column headers, in this order:
+
+Prospect Name | Prospect Email | Prospect Phone Number | Their main problem | Their current circumstances | Their desired outcome | Why they wanted to solve the problem now | What they had already tried | Why those previous solutions failed | Their main objections
+
+One row per call transcript, in the same order the transcripts were pasted. Do not add any commentary before or after the table."

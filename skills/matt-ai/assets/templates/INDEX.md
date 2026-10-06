@@ -1,0 +1,65 @@
+# Templates Index
+
+Every template the courses link to, converted so it can be filled in for a member inside the chat. Each folder has a README.md with the original link.
+
+- assets/templates/ai-company-context-document/: AI Company Context Document (Google Doc, Template) used in Step #3: Funnel Emails > Step #2: Global Writing Rules For Projects
+- assets/templates/accountability-work-form-spreadsheet-template/: Accountability Work Form Spreadsheet Template (Google Sheet, Template) used in Step #7: Work System > Step #4: Connect The Work Form To A Spreadsheet
+- assets/templates/big-idea-template/: Big Idea Template (Google Doc, Template) used in Step #5: The Big Idea > Step #1: List 20 Potential Big Ideas
+- assets/templates/canned-message-template/: Canned Message Template (Google Doc, Template) used in Step #12: Sales Process > Step #4: One Pager + Contract + Payment
+- assets/templates/close-rate-tracker-template/: Close Rate Tracker Template (Google Sheet, Template) used in Step #1: Metrics Tracking > Step #4: Create Close Rate Sheet
+- assets/templates/cold-email-template/: Cold Email Template (Google Doc, Template) used in Step #9A: Cold Email Setup > Examples
+- assets/templates/content-calendar-and-ideas-template/: Content Calendar & Ideas Template (Google Sheet, Template) used in All Setup Assets > Links page
+- assets/templates/content-tracking-template/: Content Tracking Template (Google Sheet, Template) used in Step #7: Content Setup > Step #7: Content Tracking Spreadsheet
+- assets/templates/contract-template/: Contract Template (Google Doc, Template) used in Step #12: Sales Process > Links page
+- assets/templates/copywriting-bot-template/: Copywriting Bot Template (Google Doc, Template) used in Phase #2: Early-Stage Scaling > Step #4: Expand On Ads That Are Currently Working
+- assets/templates/cost-per-call-template/: Cost Per Call Template (Google Sheet, Template) used in Step #1: Metrics Tracking > Step #5: Create Cost Per Call Sheet
+- assets/templates/data-and-benchmarks/: Data & Benchmarks (Google Doc, Template) used in All Setup Assets > Links page
+- assets/templates/data-and-benchmarks-table/: Data & Benchmarks Table (Google Doc, Template) used in All Setup Assets > Links page
+- assets/templates/direct-offer-messaging-template/: Direct Offer Messaging Template (Google Doc, Template) used in Step #6: Messaging > Step #4: Create Direct Offer Messaging
+- assets/templates/dream-100-copy-template/: Dream 100 Copy Template (Google Doc, Template) used in Step #9B: Prospecting Setup > Step #2: Create Dream 100 Copy
+- assets/templates/dream-100-list-template/: Dream 100 List Template (Google Sheet, Template) used in Step #9B: Prospecting Setup > Step #1: Build Dream 100 List
+- assets/templates/dream-400-lists-template/: Dream 400 Lists Template (Google Sheet, Template) used in Step #10: Partnerships Setup > Step #5: Build Dream 400 Lists
+- assets/templates/example-1-of-tab-1-filled-out/: Example #1 of Tab 1 Filled Out (Google Doc, Example) used in Step #5: The Big Idea > Step #1: List 20 Potential Big Ideas
+- assets/templates/example-2-of-tab-1-filled-out/: Example #2 of Tab 1 Filled Out (Google Doc, Example) used in Step #5: The Big Idea > Step #1: List 20 Potential Big Ideas
+- assets/templates/filled-in-health-tracking-spreadsheet-example/: Filled In Health Tracking Spreadsheet Example (Google Sheet, Example) used in Step #11: Tracking > Examples
+- assets/templates/filled-in-time-tracking-spreadsheet-example/: Filled In Time Tracking Spreadsheet Example (Google Sheet, Example) used in Step #11: Tracking > Examples
+- assets/templates/filled-out-financial-tracking-spreadsheet-example/: Filled out Financial Tracking Spreadsheet Example (Google Sheet, Example) used in Step #11: Tracking > Examples
+- assets/templates/financial-tracking-template/: Financial Tracking Template (Google Sheet, Template) used in Step #3: Download > Step #15: Copy The Financial Tracking Spreadsheet
+- assets/templates/format-copywriting-bot-template/: Format Copywriting Bot Template (Google Doc, Template) used in Phase #2: Early-Stage Scaling > Step #12G: Copywriting Bot For Each Format
+- assets/templates/goal-template/: Goal Template (Google Doc, Template) used in Five Quick Wins > Quick Win #5: Five Life Pillars + Template
+- assets/templates/health-tracking-template/: Health Tracking Template (Google Sheet, Template) used in Step #3: Download > Step #16: Copy The Health Tracking Spreadsheet
+- assets/templates/icp-exercise-template/: ICP Exercise Template (Google Sheet, Template) used in Step #2: ICP > Step #1: Download the Spreadsheet
+- assets/templates/icp-spreadsheet/: ICP Spreadsheet (Google Sheet, Template) used in Step #2: ICP > Links page
+- assets/templates/input-spreadsheet/: Input Spreadsheet (Google Sheet, Template) used in Step #1: Metrics Tracking > Step #6: Create Input Tracking Sheet
+- assets/templates/input-tracking/: Input Tracking (Google Sheet, Template) used in Step #1: Metrics Tracking > Links page
+- assets/templates/input-tracking-template/: Input Tracking Template (Google Sheet, Template) used in Step #7: Proof > Step #14: Add To Inputs Spreadsheet
+- assets/templates/media-partnership-one-pager-template/: Media Partnership One-Pager Template (Google Doc, Template) used in Step #10: Partnerships Setup > Step #2C: Whitelabel One Pager + Loom
+- assets/templates/messaging-audit-template/: Messaging Audit Template (Google Sheet, Template) used in Step #6: Messaging > Step #1: Do A Messaging Audit
+- assets/templates/metrics-tracking-template/: Metrics Tracking Template (Google Sheet, Template) used in Phase #1: Your First 10 Clients > Step #5A: Metrics Tracking Setup
+- assets/templates/monthly-churn-and-average-retainer-tracking-template/: Monthly Churn & Average Retainer Tracking Template (Google Sheet, Template) used in Step #1: Metrics Tracking > Step #3: Create Monthly Churn Sheet
+- assets/templates/net-margin-tracker-template/: Net Margin Tracker Template (Google Sheet, Template) used in Step #1: Metrics Tracking > Step #2: Create Net Margin Sheet
+- assets/templates/offer-audit-template/: Offer Audit Template (Google Doc, Template) used in Step #3: Offer > Step #1: Do Offer Audit
+- assets/templates/offer-presentation-example-1/: Offer Presentation Example #1 (Google Slides, Example) used in Step #3: Offer > Examples
+- assets/templates/offer-presentation-example-2/: Offer Presentation Example #2 (Google Slides, Example) used in Step #3: Offer > Examples
+- assets/templates/offer-presentation-template/: Offer Presentation Template (Google Slides, Template) used in Step #3: Offer > Step #3: Create Offer Presentation
+- assets/templates/percentage-left-in-the-year-zapier-code/: Percentage Left In The Year Zapier Code (Google Doc, Template) used in Step #7: Work System > Step #9: Create Percentage-Left-In-Year Messages
+- assets/templates/permanent-configuration-prompt-template/: Permanent Configuration Prompt Template (Google Doc, Template) used in Step #11: Tracking > Step #1H: Add Permanent Configuration - AI Project
+- assets/templates/pre-call-selfie-video-template/: Pre-Call Selfie Video Template (Google Doc, Template) used in Step #4: Funnel Videos > Step #3: Pre-Call Selfie Video
+- assets/templates/referral-partnership-deck-example/: Referral Partnership Deck Example (Google Slides, Example) used in Step #10: Partnerships Setup > Step #3B: Referral Partnership Deck
+- assets/templates/referral-partnership-deck-template/: Referral Partnership Deck Template (Google Slides, Template) used in Step #10: Partnerships Setup > Step #3B: Referral Partnership Deck
+- assets/templates/reverse-engineering-sheet-template/: Reverse Engineering Sheet Template (Google Sheet, Template) used in Five Quick Wins > Quick Win #3: Reverse Engineering
+- assets/templates/sales-call-plan-template/: Sales Call Plan Template (Google Doc, Template) used in Step #12: Sales Process > Examples
+- assets/templates/scaling-metrics-tracking-template/: Scaling Metrics Tracking Template (Google Sheet, Template) used in Phase #2: Early-Stage Scaling > Step #5: More Sophisticated Metrics Tracking Setup
+- assets/templates/scaling-reverse-engineering-template/: Scaling Reverse Engineering Template (Google Sheet, Template) used in Phase #2: Early-Stage Scaling > Step #5: More Sophisticated Metrics Tracking Setup
+- assets/templates/short-form-content-template/: Short Form Content Template (Google Doc, Template) used in All Setup Assets > Links page
+- assets/templates/thank-you-page-main-vsl-slide-deck-example/: Thank You Page Main VSL Slide Deck Example (Google Slides, Example) used in Step #4: Funnel Videos > Step #2: Thank You Page Main VSL
+- assets/templates/thank-you-page-main-vsl-slide-deck-template/: Thank You Page Main VSL Slide Deck Template (Google Slides, Template) used in Step #4: Funnel Videos > Step #2: Thank You Page Main VSL
+- assets/templates/top-25-pco-template/: Top 25 PCO Template (Google Doc, Template) used in Step #6: Messaging > Step #3: Create Top 25 PCO Document
+- assets/templates/tracking-spreadsheet/: Tracking Spreadsheet (Google Sheet, Template) used in Step #3: Download > Step #17: Copy The Time Tracking Spreadsheet
+- assets/templates/unit-economics-model-spreadsheet-template/: Unit Economics Model Spreadsheet Template (Google Sheet, Template) used in Phase #2: Early-Stage Scaling > Step #9: Unit Economics Model
+- assets/templates/vsl-slide-deck-example/: VSL Slide Deck Example (Google Slides, Example) used in Step #4: Funnel Videos > Step #1: VSL
+- assets/templates/vsl-slide-deck-template/: VSL Slide Deck Template (Google Slides, Template) used in Step #4: Funnel Videos > Step #1: VSL
+- assets/templates/war-map/: War Map (Google Sheet, Template) used in Step #3: Download > Step #18: Copy The War Map
+- assets/templates/welcome-flow-template/: Welcome Flow Template (Google Doc, Template) used in Step #3: Funnel Emails > Examples
+- assets/templates/whitelabel-partnership-deck-example/: Whitelabel Partnership Deck Example (Google Slides, Example) used in Step #10: Partnerships Setup > Step #2B: Whitelabel Partnership Deck
+- assets/templates/whitelabel-partnership-deck-template/: Whitelabel Partnership Deck Template (Google Slides, Template) used in Step #10: Partnerships Setup > Step #2B: Whitelabel Partnership Deck
