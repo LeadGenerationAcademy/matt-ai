@@ -6,6 +6,10 @@ Mirrors the Change Log course in Skool. Newest first.
 
 - First version. 57 courses, 808 modules, 101 call and lesson transcripts, 61 templates, 3 calculators.
 
+## v1.6
+
+- Voice guide built from the call recordings and chat (references/00-core/voice.md). Matt AI reads it before every answer.
+
 ## v1.5
 
 - Closing sections split: "What I could not assess" (why) and "What to send me" (bullets, each with what it is for).

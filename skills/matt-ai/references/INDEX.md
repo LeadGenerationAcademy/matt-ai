@@ -2,6 +2,8 @@
 
 One line per course. Open the course's INDEX.md to find the right module.
 
+Voice guide, read before every answer: 00-core/voice.md
+
 Shared module (same in every course): 00-core/help-support-clarification-feedback.md (Help (Support, Clarification, Feedback))
 
 ## Core

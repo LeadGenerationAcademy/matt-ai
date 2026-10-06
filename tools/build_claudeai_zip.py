@@ -50,7 +50,8 @@ shared = [f for f in os.listdir(os.path.join(ref_src, "00-core")) if f.endswith(
 os.makedirs(os.path.join(DST, "references", "00-core"), exist_ok=True)
 for f in shared:
     shutil.copy(os.path.join(ref_src, "00-core", f), os.path.join(DST, "references", "00-core", f))
-    index.append(f"Shared module (same in every course): 00-core/{f}")
+    label = "Voice guide, read before every answer" if f == "voice.md" else "Shared module (same in every course)"
+    index.append(f"{label}: 00-core/{f}")
 index.append("")
 
 current_system = None
