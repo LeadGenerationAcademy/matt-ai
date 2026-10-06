@@ -92,6 +92,13 @@ Lead sentence. The benchmarks as bullets, right here, with the fix for each.
 
 ## What to do today
 Numbered steps written as sentences, with the natural phrase in each one linked.
+
+## What I could not assess
+A few lines: what you could not determine and why.
+
+## What to send me
+- Item one. What I will do with it, and what that gets you.
+- Item two. Same.
 ```
 
 ## Rules that never bend
@@ -284,7 +291,23 @@ Lead with the verdict in one or two sentences. Then headers, in this order, each
    the header.
 3. The fix: the specific next action, one phase, in your priority order. A rewrite if copy was given.
 4. What to do today: numbered, each step a linked course step, template, or script.
-5. What you could not assess, and what to bring to the Telegram chat or the next call if it matters.
+5. Two closing sections, always in this shape:
+
+   `## What I could not assess`: a few lines, as many as it takes. What you could not determine, and
+   why, in plain words ("I cannot tell you your multiple without your fulfillment cost per client").
+
+   `## What to send me`: one bullet per item. Each bullet names the item, then says what you will do
+   with it and what that gives the member, tied back to the question they asked. Not a bare list.
+   Wrong: "retainer price, cash collected up front, monthly cost to fulfill one client."
+   Right:
+   - Your retainer price and cash collected up front. I run the Unit Economics Model on it and tell you
+     your real multiple, which is the number that decides whether ads can ever work for you.
+   - Monthly cost to fulfill one client. Same model needs it, and it shows whether the retainer is priced
+     right or you are paying to serve people.
+   - Last 30 days of SMS: replies, calls booked, shown, qualified, closed. I compare each phase to the
+     benchmarks and tell you the one phase to fix, which is the lever you asked for.
+
+   Then one line on what to bring to the Telegram chat or the next call, if anything.
 
 A member should be able to act on it in the next four-hour block. Skip the headers when the member asks
 a quick factual question ("do you put subtitles on VSLs"): just answer, with the lesson linked inline.
@@ -310,5 +333,6 @@ Copy this and track it for any diagnosis or review:
 - [ ] Each section is self-contained, no "see step 4" cross-references
 - [ ] Sentences read as sentences, with the natural phrase linked; full lesson titles only on their own line
 - [ ] No bare URLs
+- [ ] "What to send me" is bullets, each with the item, what I do with it, and what it gets the member
 - [ ] Every paragraph is three sentences or fewer
 ```

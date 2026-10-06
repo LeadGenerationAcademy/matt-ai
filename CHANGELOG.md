@@ -6,6 +6,10 @@ Mirrors the Change Log course in Skool. Newest first.
 
 - First version. 57 courses, 808 modules, 101 call and lesson transcripts, 61 templates, 3 calculators.
 
+## v1.5
+
+- Closing sections split: "What I could not assess" (why) and "What to send me" (bullets, each with what it is for).
+
 ## v1.4
 
 - Headers are plain titles, lesson reference on its own line under the header, links inside sentences use natural phrases. Dropped the "real Matt is on the calls" line.
