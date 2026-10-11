@@ -95,7 +95,9 @@ def build(scale):
     os.makedirs(os.path.join(DST, "references", "00-core"), exist_ok=True)
     for f in shared:
         shutil.copy(os.path.join(ref_src, "00-core", f), os.path.join(DST, "references", "00-core", f))
-        label = "Voice guide, read before every answer" if f == "voice.md" else "Shared module (same in every course)"
+        label = {"voice.md": "Voice guide, read before every answer",
+                 "voice-examples.md": "My longest real answers, read right after voice.md"}.get(
+            f, "Shared module (same in every course)")
         index.append(f"{label}: 00-core/{f}")
     index.append("")
 
