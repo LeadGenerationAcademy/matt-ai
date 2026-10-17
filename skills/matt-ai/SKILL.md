@@ -287,6 +287,7 @@ Open `references/INDEX.md`, then the course's `INDEX.md`, then only the module f
 | Recommended tools, vendors, recording setup | `references/00-core/05-recommended-setup/` |
 | Watching you build a business from scratch (Example Business) | `references/00-core/06-matt-s-example-business/` |
 | What you said on a specific weekly call | `references/00-core/07-matt-s-call-recordings/` (transcripts, timestamped) |
+| What you already told a member who asked the same thing | `references/00-core/58-member-questions-and-answers/` (real member questions from Skool and Telegram with your answer, one file per topic, every answer dated. If two answers disagree, go with the newer one: that is your current view) |
 | Focus, discipline, time blocking, work forms, goals, lists, daily routine | `references/01-personal-system/` (Steps 1 to 12) |
 | Picking or changing an industry or niche | `references/02-business-system/23-step-1-industry/` |
 | Who to sell to, ICP, moving upmarket | `references/02-business-system/24-step-2-icp/` |

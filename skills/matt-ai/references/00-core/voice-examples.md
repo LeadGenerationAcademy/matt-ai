@@ -7,6 +7,154 @@ Read this right after voice.md. These are my longest answers to real member ques
 
 ---
 
+## How to clarify branding and messaging for agency automation services?
+
+Asked: October 12, 2026
+Words: 455
+
+**Question:** How can I improve my branding and messaging across my personal website, YouTube, and LinkedIn to clearly communicate the specific problem I solve for marketing agencies and why they need my automation systems?
+
+**My answer:** Member 1 The first thing that I think is that it is confusing with your branding and jumping back and forth between agency and Claude to know what the offer is at a glance
+
+[Image image.png: This image shows a YouTube channel page for Member 1, who creates content related to marketing automation, project management, and building client portals using tools like Claude Code. The channel features videos on topics such as content ideas, project management systems, AI assistants, and CRM systems. The thumbnails prominently display Member 1's face along with bold text highlighting the video topics.
+
+Floclick
+Worked with 45+ agencies
+
+Member 1
+a member • 453 subscribers • 77 videos
+Welcome, I'm Max. I've spent the last few years building automation systems for marketin...more
+cal.com/forms/32e204df-7c22-4872-bae1-afd0291b88d1 and 1 more link
+Subscribe
+
+Latest Popular Oldest
+
+unlimi content
+Never Run Out of Content Ideas Again
+20:55
+359 3w ago
+
+I built my own
+The Only Project Management System Your Agency Needs
+15:14
+344 2mo ago
+
+Claude
+How to Build an Onboarding Portal With Claude
+13:29
+333 3mo ago
+
+Built for $0
+How to Build a Client Portal With Claude Code
+12:22
+1.5K 3mo ago
+
+AI PROJECT MANAGER
+How I Built an AI Assistant for My Projects Using Claude (2026 Guide)
+11:53
+277 3mo ago
+
+Make a CRM with Claude Code
+The CRM System You Need To Scale to 1M+ (Build with Claude Code)
+33:29
+2.6K 4mo ago]
+
+To me it is not that clear what problem you solve looking at your YouTube and LinkedIn. Just pretty vague which I think probably hurts you
+
+Master agency operation, custom systems agencies run on are just buzzwords to me, I would brainstorm how to make it actually specific so an agency owner would know what you're referring to
+
+Good looking website but I think people will ask why they need you to set this up. I would try and get into a little bit about how it will be better if you set it up vs. them based on your experience with so many agencies knowing what works vs what doesnt
+
+[Image image.png: The image shows a mobile phone screen displaying the homepage of a website called Floclick. The website offers services to help agencies automate their operations at scale by building CRMs, setting up project management, and creating automations. There is a call-to-action button labeled "Read more" and a section indicating that the company is trusted by agencies worldwide.
+
+Floclick
+
+We help agencies automate their operations at scale
+
+We work with leading agencies around the world helping them build CRMs, set up project management and create automations.
+
+Read more
+
+Trusted by agencies worldwide
+
+floclick.com]
+
+Personal website looks good. We just need more consistent posting on YT + NL
+
+---
+
+## Pivot to experienced investors or refine current product mix?
+
+Asked: October 6, 2026
+Words: 293
+
+**Question:** Should I pivot hard to experienced real estate investors only and run a pure agency offer, or should I work on fine-tuning the product mix I already have?
+
+**My answer (with the back-and-forth):**
+
+Me: Should I pivot hard to experienced real estate investors only and run a pure agency offer, or should I work on fine-tuning the product mix I already have?
+
+^ Can you elaborate briefly on what you would consider an experienced real estate investor? Does this mean like developers?
+
+Me: I would not default to switching niches if you are this deep. To me it sounds like we would want to go upmarket with a pure agency service first
+
+Member 1: a member Larsen in our niche, agencies that specialize in only working with experienced operators typically will gauge that based on their advertising budget per month, a minimum of $5,000 per month to $10,000 per month, depending on the channel that they're operating in.
+
+For example, if it's Facebook, then generally agencies require a minimum of $5,000 per month in marketing spend. If it's pay-per-click, then typically $10,000 per month. Those operators are generally doing at least $500,000 a year in revenue.
+
+That does decrease the number of operators, so the total addressable market is much lower, obviously, because the real estate investing and wholesaling space generally has a lot of people trying to get their first deal done.
+
+As you decrease the requirements, more help and support in terms of coaching generally need to be introduced into the product.
+
+From a competitive standpoint, in the ads library, there is a much larger number of vendors advertising their services as agencies that will run your campaigns or pay-per-lead providers.
+
+A smaller number of advertisers are running a volume of ads around new investors.
+
+And in terms of those that teach people how to run their own campaigns, there might be myself and perhaps two other people.
+
+Member 1: a member Larsen yeah, I've been in the niche since 2008 and have a very long reputation in the niche. I always think that if I switch niches, then I'm just swapping out one problem for another rather than fixing the problems of a niche that I'm already in.
+
+The biggest gross revenue players in our niche are the pay-per-lead companies, which is not a model that I want to pursue. At this point.
+
+My thought process was either one of two options:
+
+1. An upmarket strategy to go after the very experienced real estate investors. However, that market has a lot more competition.
+2. A more of a hybrid approach where you are combining both agency services as well as coaching and consulting. Therefore, you are putting yourself in a position in the marketplace where you're catering also toward new people and experienced investors that want to bring their marketing in-house.
+
+The upside to dealing with newer investors is that there are certainly more of them available, and also, with the right structure, it does lend itself to doing deals. We have opportunities where the client will get a lead through the marketing that we set up, but they need help in doing the transaction and taking it to the finish line. They'll go ahead and submit that deal for us to handle.
+
+I have a couple guys on my team that will do that, and we will split the deal with the client. I split that with the person on the team that I have doing it.
+
+For example, a week and a half ago, we did one deal where the total gross revenue on that deal was $25,000. We got half of that, so we made $12,000 additional, and then I got half of that, which is $6,000. Those deals are the highest-leverage deals for me because I do absolutely zero. I just get the wire and know a day or two before that happens.
+
+Additionally, I would still like to be active in the business because it complements the coaching and consulting, as well as provides additional revenue. Interestingly enough, we've had some clients that have had tremendous deals that they have completed and made a profit of $1 million and up on a single deal using our strategy and with our help in terms of our marketing system.
+
+Me: So you are referring to flippers and stuff or am I misreading? Still a bit confused at who exactly you are asking about
+
+Me: Member 1 Your current strategy is the course for the newer people and the DFY for the more experienced people, but you are not charging enough for DFY so it isn't worth it. Right?
+
+Member 1: a member Larsen actually, the majority of our clients are in the middle. This is where they want to run the ads themselves, but they don't have the budget to be able to pay the agency fee. We end up doing a hybrid where we would charge them to set up their ads, run them for 30 days, and then hand them over to them so that they can learn how to run them.
+
+A service like that typically is $6,000 for the setup and running for 30 days, and then they get access to the community for 6 months. After 6 months, they have to renew.
+
+what ends up happening is we do have clients that will then have us continue to run the ads after that for additional months, just because they're getting results from our initial run of the ads. It becomes easier for them to say, "Fuck it, just keep on running them. Let me focus on getting the deals done."
+
+Me: Member 1 You get absolutely slammed in the middle. You have to do too much, but you don't charge enough.
+
+Me: I'm not sure of the total answer to your question, but I do know that you'll usually make more net margin serving one client at 10,000, for example, than four clients at 2,500.
+
+Me: So even if you get literally one-fourth or one-fifth of the good clients, you will make more money. It's hard to believe, but it's true. And assuming you just want to optimize for total net profit, that's probably what I would do.
+
+Me: Obviously, for one-fourth of the work, too, which is a big bonus
+
+Member 1: a member Larsen got it. It sounds like optimizing your service offering and pricing for the highest-tier clients, in your mind, is always the best alternative from a profitability perspective as well as a logistic-intensity perspective, correct?
+
+Member 1: a member Larsen the other question becomes (and I have to think about this): what is the business model that, in principle, I'm looking for? Is it a model that is an agency model, for lack of a better word, or one that is a model geared toward harvesting of deals (i.e., clients that come in, generate leads, and we assist with that in a hybrid capacity)? They need help with their deals. They give them to us, so we do real estate deals with zero acquisition cost.
+
+Me: Member 1 I think you need to decide what your end game is. If your end game is doing the deals and that is the biggest potential then I would probably change the strategy a bit. If your end game is making money from your services, then that is a different strategy
+
+---
+
 ## Webinar show rate and ROAS drop when registrants scale; is that normal?
 
 Asked: October 4, 2026
@@ -88,6 +236,45 @@ Me: DM me tho
 
 ---
 
+## Should I hire an editor for ads and what are costs and timelines?
+
+Asked: October 11, 2026
+Words: 169
+
+**Question:** For editing ads, should I hire an editor or do it myself? How long should I wait for videos? How much should I pay for high output?
+
+**My answer:** Don’t do yourself. You can get an editor to do basic edits for like $50 on a normal talking head video
+
+If your editor lazy and takes like 3 days even get a new one
+
+You just need to get like 3-5 good ones and then you can send those as examples as a quality standard and it helps
+
+Never seen someone charge 200-300 for this
+
+Try Captions app on iPhone
+
+It has AI editing
+
+It’s ok not the best but fast and free
+
+For a basic talking head VSL
+
+https://captions.ai
+
+[Image photo.jpg: The image is an advertisement for a video editing AI tool called "captions." It shows a woman’s portrait being edited with a cinematic filter applied, highlighting the AI's ability to edit videos like a professional editor. The design uses a soft gradient background with a focus on simplicity and clarity.
+
+captions
+
+AI that edits your video like an editor would.
+
+Cinematic
+
+A breezy morning]
+
+No they are all hit or miss and sometimes reliable sometimes not
+
+---
+
 ## Which offer and funnel to use for an electrician running EV charger ads?
 
 Asked: September 29, 2026
@@ -126,6 +313,49 @@ Member 14: yea its not the first time, but first time in home services industry 
 Me: ok go through them and get the pages and the videos and the flows
 
 Me: courses
+
+---
+
+## Clarification on what counts as a work hour for leaderboard logging.
+
+Asked: October 16, 2026
+Words: 164
+
+**Question:** Can you explain the rules for what counts as a work hour in the leaderboard contest? I work 10-12 hours but don't log meetings or low-leverage tasks.
+
+**My answer (with the back-and-forth):**
+
+Me: If we do this kind of competition, just count every hour you worked. We're not going to waste our time, and it wouldn't even be possible to police whether someone is doing deep work or not
+
+Me: I do think for me at least
+
+Me: Tracking every hour leads to higher total number of deep work hours tho
+
+Member 11: On my end I only log productive work for the contest / leaderboard: 60 min focused blocks on whatever moves my main constraint, which right now is launching the pay per Member 51 offer on Oct 22 + making progress on the main SaaS. Today that meant merging the payment system for the pay peer Member 51 offer (linked to Member 51 delivery), finishing contracts & terms, setting up Member 51 alerts in Slack linked to the CRM, and writing the cold email sequence + reviewing PRs from my devs for the main SaaS.
+
+I don't count admin, calls, invoicing or low-leverage stuff I did, even if I'm "working" 14h I only logged 10. Otherwise the number stops meaning anything.
+
+Also, I see some people logging multiple forms in 1 minute in the leaderboard, it doesn't make sense to me. One form = one block actually done, filled right after it. If it's just a number to inflate, the contest loses the point if we can just submit a form 10 times once per day to "show" we worked it's too easy.
+
+Me: Yeah, most of the time, people forget
+
+Me: and then do at once
+
+Me: I do that sometimes
+
+Me: i dont think it is a big deal personally
+
+Me: maybe if they were gonna go for rank 1
+
+Me: but if they arent close to rank 1 anyways
+
+Me: whatever
+
+Me: kind of moot
+
+Me: It's the first day it was live. I think it will just normalize with how people use it, and more people will start using it as time goes on
+
+Me: Don't think we're going to have to worry too much about people mass-filling it out or anything. Everyone's paying to be here, and everyone's a business owner. Don't think it's that deep.
 
 ---
 
@@ -180,6 +410,89 @@ Me: cuz if i clicked from facebook ads i wouldve left long ago
 
 ---
 
+## Advice on banned Meta ad account and alternatives.
+
+Asked: October 16, 2026
+Words: 157
+
+**Question:** I sold a Fortnite account when I was about 12 and now my Meta ad account is banned with no clear reason. I have other Facebook accounts but worry about IP flags. What should I do?
+
+**My answer (with the back-and-forth):**
+
+Me: [Image photo.jpg: The image shows a domain management dashboard for the domain "mattlarsenai.com." It includes options to renew the domain, sell it, and manage protection and privacy settings. The domain status is marked as "IDLE," and the renewal cost is displayed along with the renewal date. Several sections appear to be loading or inactive.
+
+Domain Portfolio
+mattlarsenai.com
+
+Overview  DNS  Products  Activity Log
+
+Renew
+Renew Now
+Auto-renew  On
+Renews on  Oct 16, 2027
+Renewal Cost  C$32.99/yr
+
+Sell
+List for Sale
+
+Protect
+
+Contact Info
+Edit
+
+Domain Privacy: On
+Change
+
+Use My Domain
+
+Domain Status: IDLE
+
+Help Center]
+
+Me: You'll have to upload it through the API then
+
+Me: Do you want to go through the hassle of fixing this?
+
+Me: What does this say in english?
+
+Member 20: 1792177921604_image.png
+Trnaslte ot enlgihs:
+
+Maximilian Lesek
+🔒 Restricted account · Restricted on Nov 30
+
+You’re not allowed to use Meta’s products for advertising. This is because you haven’t followed one or more of our Advertising Policies that affect business assets. This may be because too many of your ads were rejected, you tried to get around our ad review process, you engaged in fraudulent behavior, or you were linked to untrustworthy accounts.
+
+Restrictions
+
+Can’t manage ad accounts
+Can’t create or run ads
+Can’t manage advertising assets or people for businesses
+Disabled assets
+
+Personal ad account
+Audiences
+
+Me: Did you appeal?
+
+Member 20: I can't appeal
+
+Member 20: Because it has been too long since
+
+Me: Nothing to be done unless you want to pay to bribe an insider
+
+Me: which is not worth
+
+Member 20: I signed with my instagram account now (which worked)
+
+But I would assume that's high risk here
+
+Me: if it gets banned u can upload with api anyways
+
+Me: that is what many people do
+
+---
+
 ## How to sell a new offer with no proof and get a first case study fast?
 
 Asked: October 7, 2026
@@ -202,6 +515,31 @@ And it is split about 50-50
 So 50% of people make up 91% of the purchases, and 50% of people (the ones who never bought leads before) make up only 9%
 
 You don't need testimonials much for this
+
+---
+
+## Remove application step with low application and booked call rates?
+
+Asked: October 11, 2026
+Words: 154
+
+**Question:** Should I remove the application step from my funnel if my application rate is 2% and booked call rate is 1.6%?
+
+**My answer:** the three problems with application rate could be:
+
+1. Form is too strict (not usually the problem)
+2. Landing page is terrible
+3. The ad(s) are not attracting the right ICP
+
+Assuming the landing page says the same thing as the ads (congruency), it should usually be attracting the right people
+
+Yeah, I usually recommend removing application only at this stage for the first 10-ish calls perhaps. Never after though due to pixel conditioning, time waste, etc.
+
+It is valid thing to do at this stage because you would get a lot of benefit just by talking to people even if they are unqualified to see how the calls go and what you can learn
+
+IF** you want as low friction as possible. Just embed Calendly in your second section, and then just try it for 10 or so calls
+
+Member 27 can you screenshot your application questions analytics and the drop off rates
 
 ---
 
@@ -354,6 +692,35 @@ Me: I still think you should make it more clear it's for people already doing Yo
 
 ---
 
+## Feedback on direct to call funnel landing page
+
+Asked: October 9, 2026
+Words: 126
+
+**Question:** How would you rate a landing page for a direct to call funnel in terms of proof, hook, CTA, VSL, testimonial, focusing on clean visuals rather than massive copy?
+
+**My answer:** dont think it matters. i assume he gets all of this from YouTube
+
+he could have nothing on his page and it would be fine
+
+big dif between successfully doing it from fb ads vs youtube
+
+yes i would change a lot on that page
+
+esp the above the fold design, headline, etc.
+
+To me, he would need to completely re-do it if he was running from FB ads
+
+Just my opinion
+
+One thing need to learn as fast as possible is whether something works because of something vs. in spite of something
+
+HIs landing page may work in spite of it being terrible, not because it is terrible above the fold
+
+If his current one works, it would work 25-50% better if he fixed it
+
+---
+
 ## Feedback on Meta ads for contractors getting low budget leads
 
 Asked: October 8, 2026
@@ -459,6 +826,41 @@ Me: u need to reflect this in the ad and on the lp
 
 ---
 
+## How to transition from retainer to pay per lead in home services?
+
+Asked: October 9, 2026
+Words: 111
+
+**Question:** Anyone running pay per lead for home service industries? Thinking of transitioning from retainer to pay per lead but unsure how to do it right.
+
+**My answer (with the back-and-forth):**
+
+Me: do u currently have tons of successful clients in home industries on the retainer model?
+
+Me: If you already don't have tons of succesful clients on retainers, you will fail miserably at pay per Member 51
+
+Member 35: I love this. Usually when I type things manually and result is so much better and the idea is much more clear in my head. Nowadays using these dictation tools like whisper for doesn’t give me nearly as that clarity and feeling of a really mastering the topic as writing it old way.
+
+Me: i got rid of wispr flow
+
+Me: ruined my brain
+
+Member 28: We do SEO but only have 10  Successful clients. So if I do pay per Member 51 I would imagine I would have to switch to running meta on Google ads in order to get the leads
+
+Me: yes and if u currently don’t do this I would not do pay per Member 51 from scratch
+
+Me: Do meta retainer first to learn
+
+Member 28: Sounds good thank you. I was thinking of starting to sell Meta as the first offer just because I can get results quicker and upsell SEO
+
+Me: pay per Member 51 is not a different business
+
+Me: it is the same business with a different way to charge
+
+Me: if u dont already have the successful version of it on retainer ur gonna lose all ur money on pay per Member 51
+
+---
+
 ## Should my agency use a client waiting list?
 
 Asked: October 5, 2026
@@ -530,6 +932,47 @@ Me: cuz ur not an editor only
 Me: even if you do only the editing he will be a terrible client so it doesnt make sense
 
 Member 6: yep true
+
+Me: someone asked a few days ago about what to do with a disrepectful client
+
+Me: or prospect
+
+Me: it is the same there as here
+
+---
+
+## How to handle a difficult client demanding a refund for scripts with no refund clause?
+
+Asked: October 7, 2026
+Words: 105
+
+**Question:** A member asks what to do about a difficult client who repeatedly rejects scripts, uses other scriptwriters, and now demands a refund for scripts despite no refund clause in the contract and significant upfront work done.
+
+**My answer (with the back-and-forth):**
+
+Me: What % is refund of total
+
+Member 27: we dont have refund clause it states in contract and i have no clue what id refund
+
+Member 27: cause we already did a bunch of ideation upfront and already created the editing assets upfront literally does not make sense to refund like 2k of the 7k or whatever
+
+Me: will he write bad reviews about you?
+
+Member 27: probs not
+
+Me: if people are like that I will usually just refund them and move on with my life
+
+Me: and then slander them to anyone who will listen privately
+
+Me: I am not sure but you should not just do part of it imo
+
+Me: do all or nothing
+
+Me: cuz ur not an editor only
+
+Me: even if you do only the editing he will be a terrible client so it doesnt make sense
+
+Member 27: yep true
 
 Me: someone asked a few days ago about what to do with a disrepectful client
 
@@ -806,323 +1249,76 @@ Me: Same for your Facebook Ads
 
 ---
 
-## Is the offer on my redone landing page clear and specific?
+## How to target location in local service ads and landing pages?
 
-Asked: September 29, 2026
-Words: 87
+Asked: October 12, 2026
+Words: 91
 
-**Question:** A member redid the landing page for a done-for-you YouTube offer and asks whether the offer is clear and specific.
+**Question:** For local service ads, should I geotarget or put the location in the ad and landing page? How specifically should location be targeted?
 
-**My answer:** [Photo]
+**My answer:** yes, if local, always
 
-We plan, script, edit, design and publish every video, and we track every dollar it makes. All you do is send a voice note and film.
+new ad + landing page per locale
 
-Make this your Subheadline
+It makes it like 50% better
 
-Takes a long time to find out any details about your 10m acquisition system
+One per city yes
 
-Scrolling down or in the VSL
+For Melbourne Residents
 
-it is better i dont like the offer tho
+For Sydney Residents
 
-$10m YouTube Acquisition System is completely meaningless and vague
+etc
 
-for an ad viewer
+or whatever you decide
 
-If you want this offer I’d do a webinar funnel not a call funnel
+i would not put that on the LP for example
 
----
+I would just set my ads to target 30+
 
-## Examples of working activation points
+and not mention that
 
-Asked: October 3, 2026
-Words: 82
+personally
 
-**Question:** What is an example of a working activation point, beyond your own first-hand experience?
+yes
 
-**My answer:** Everyone has them
+in my insurance agency
 
-They just have not identified
+we have 35 different landing pages + campaigns
 
-Member 6’s would be try this YouTube intro template
+one for each state (we only do 35 of the 50 usa states)
 
-And see if your 30 second hold rate is higher
+it helps a lot
 
-Etc
-
-A fitness coach I work with found that if he gets his clients to pin their hormones more frequently they are more likely to work with him
-
-Could be very random
-
-If people use a work timer they are much more likely to work with me
-
-Or if they print my funnel mail
-
-Map
+city based performs even better
 
 ---
 
-## 139 clicks and no applications: is the landing page the problem?
-
-Asked: October 3, 2026
-Words: 82
-
-**Question:** I got 139 clicks to my landing page and no applications. The ads look healthy ($30 CPM, 1.74% LCTR, $1.80 CPC). How soon before a design refresh is needed?
-
-**My answer:** did you check the columns to make sure no old people 65+ and no messenger and audience network?
-
-if so, then you definitely need to rethink this LP, or check the messaging in the ads
-
-if you aren't booking calls
-
-1. The ads are attracting the wrong people and incongruent with LP
-2. The LP is terrible
-3. The application form is too strict
-
-usually application form isnt the problem, and if you are confident your messaging is right, check the LP
-
----
-
-## How bad is it to serve a non-ICP like SaaS?
-
-Asked: October 5, 2026
-Words: 77
-
-**Question:** How cooked is it to have a non-ICP, such as SaaS, as my clients? We got to over 50K per month from about 70% referrals and inbounds. Is it worth doing differently or should we add content, a newsletter, partnerships and risk reversal?
-
-**My answer (with the back-and-forth):**
-
-Me: It is relatively cooked if you are trying to get to multi millions per month in revenue
-
-Me: if that is not your goal, it will be fine
-
-Me: it will just be harder than if you can copy and paste results
-
-Member 32: yes for sure harder, I coach outbound agencies daily niched on HVAC etc with fulfilment literally 100x easier
-
-Member 32: their margins are lowkey cooked though
-
-Me: why are their margins cooked
-
-Member 32: typically small retainers or pay per lead, just harder to squeeze more money out of afaik
-
-Me: ah i am not sure
-
-Me: About outbound for HVAC types
-
-Me: The biggest agencies I know are all niched onto a single home service, medical field, or real estate vertical
-
-Me: or financial vertical
-
----
-
-## Experience with 25k to 50k done-for-you offers and financing
-
-Asked: October 4, 2026
-Words: 74
-
-**Question:** Has anyone run a done-for-you high ticket offer with an AOV of 25k to 50k, paid in full or financed? I plan to launch something like that and want to connect with experienced people.
-
-**My answer:** Incredibly risky to do financing on that AOV
-
-Financing will take 8-12% off the top
-
-and if they chargeback or anything dumb happens, they don't give back the 8-12%
-
-which at that level puts you out 5-8k
-
-Almost every financing company collapses eventually, especially if it is B2C financing
-
-i am also against it because i simply would not want to work with/do business someone who needs financing
-
-Generally speaking a recipe for disaster
-
----
-
-## When to expand from a small country to the US market?
-
-Asked: October 4, 2026
-Words: 72
-
-**Question:** When should I look at expanding my market, such as going from Australia only to the US and broadening the target market? Is there a certain revenue range? I sell to dentists over 1m with paid ads and I am at $50k per month but cost per qualified call is going way up.
-
-**My answer (with the back-and-forth):**
-
-Me: For your ad campaigns or something else?
-
-Me: Describe current situation a bit if you can and why
-
-Me: dentists over 1m right? Paid ads?
-
-Me: There are not a lot of dentists there, but moving to USA for dentists you have to jump through an insane amount of hoops as the medical compliance is much different
-
-Me: you'll need legitscript, HIPAA, etc
-
-Me: a real fuckaround
-
-Member 23: Yep correct
-
-Member 23: You reckon it's worth it? Like I don't feel like I've capped out Member 12 at all only at $50k/month but CPQC is going way up
-
-Member 23: Might just need more creatives and angles
-
-Me: You haven’t maxed out anything at 50k per month no
-
----
-
-## Typical referral fee percentage and duration on agency retainers
+## How to improve webinar show rate and results
 
 Asked: October 9, 2026
-Words: 66
+Words: 89
 
-**Question:** What are typical referral deals on agency retainers, both the percentage and how long they get paid, when I am the one giving the referral fee?
-
-**My answer (with the back-and-forth):**
-
-Me: you are giving it to someone or they are giving it to u?
-
-Me: When I get it, I always try to get less total but more up front
-
-Me: so i dont have to keep track and get good cash flow
-
-Member 54: When I am giving it
-
-Me: try to give 10% recurring
-
-Me: usually u wanna give them a reason beyond a fee to refer to you
-
-Me: that will benefit them in some way
-
----
-
-## Should I hire an ops agency to set up project management?
-
-Asked: October 5, 2026
-Words: 65
-
-**Question:** Does anyone know any good ops agencies to set up ClickUp and project management for my team? My setup from when I was at 10k breaks at 3+ pods.
+**Question:** Ran a webinar with poor show rate (22.7%) and broke even on ad spend; what should I do to improve?
 
 **My answer (with the back-and-forth):**
 
-Me: Learn to do it yourself lol
+Me: what does the process look like between sign up and the webinar happening
 
-Me: Or you’ll be their hostage for life
+Me: email flows, reminders, appt setting
 
-Me: Takes like 1 hour
+Me: u should be blasting them every 4 hours with educational content before the webinar in addition to the reminders
 
-Member 19: fr? you set up your project management yourself as well when you were at 900k?
+Me: to warm them up and educate them
 
-Me: Yes
+Me: you can also use the apple wallet event thing
 
-Member 19: crazy, still running with the clickup setup that I had when I was at 10k but know shit start breaking at 3+ pods
+Member 26: What’s apple wallet event thing
 
-Me: It’s just more of the same. You need the setup to be very basic
+Me: there are some softwares on the TY page of the sign up
 
-Me: Hire a PM VA
+Me: where u have add this event to ur apple wallet
 
-Me: To make sure everyone uses it
-
-Me: And harasses everyone
-
-Member 19: Upwork and onlinejobsph valid to hire those?
-
-Me: Yes
-
-Me: it doesnt take much skill on their end
-
-Me: can basically put anywhere in
-
-Me: prioritize them being nice and pleasant
-
----
-
-## Will a texting platform's terms block a lead gen business?
-
-Asked: October 5, 2026
-Words: 62
-
-**Question:** Is there anything I should change about my business or website when signing up for an SMS and texting platform, since its terms of service say lead generation is not accepted?
-
-**My answer (with the back-and-forth):**
-
-Me: Really it worked for me and I know so many who use for lead gen
-
-Me: Did you get denied
-
-Member 45: no I didn't just wanted to check before
-
-Member 45: I guess they must just have that there for legal & really not something they examine too carefully
-
-Me: Some of the biggest info product scammers I know use Roezan. It's truly great software
-
-Me: But I would be shocked if you had any problems with it
-
-Me: i am sure they do not give a fuck at all personally
-
-Me: just A2P authority cares
-
----
-
-## Is a coaching brand's AI product worth $1k for an agency?
-
-Asked: October 5, 2026
-Words: 61
-
-**Question:** Is Jeremy's AI worth the $1k, and does it work for an agency model?
-
-**My answer (with the back-and-forth):**
-
-Me: jeremy ai is pretty good
-
-Member 5: worth the 1k?
-
-Me: if you have an info product business
-
-Me: probably
-
-Me: if not, debatable
-
-Member 5: agency?
-
-Me: I was in Jeremy IC offer for a year
-
-Me: to me, it was just specifically for info
-
-Me: and as agency person, it was hit or miss
-
-Me: Jeremy's best stuff is around messaging
-
-Me: He is perfect at it, esp for his own stuff to his ICP
-
----
-
-## Which industry should I niche into for my AI SEO service?
-
-Asked: October 3, 2026
-Words: 60
-
-**Question:** I run an AI SEO service and my current clients come from different industries (skilled care nursing facility, custom gift basket company, dentist, ecommerce, local property and casualty insurance company). Which industries should I focus on for AI SEO?
-
-**My answer:** do u have a niche for ai seo
-
-yes it is a tough one
-
-traps a lot of people
-
-Which industries
-
-which type of insurance
-
-local insurance companies are pretty good usually
-
-but you should think deeply about it
-
-i would say not ecom
-
-custom gift basket too niche
-
-dentist ok
-
-skilled nursing ok maybe all nursing would be better
+Me: and it will add a webinar invite to their apple wallet which reminds them
 
 ---

@@ -4,6 +4,7 @@ Mirrors the Change Log course in Skool. Newest first.
 
 ## Unreleased
 
+- October 17, 2026: added 60 member questions with answers (Skool and Telegram) and 4 call recording transcripts (October 7, 2026 - Business Call - My Business Philosophy; October 8, 2026 - Funnel Call - The Importance Of Messaging; October 13, 2026 - Personal Call - The Conditions Of Getting Locked In; October 15, 2026 - Funnel Call - Getting Started On YouTube).
 - First version. 57 courses, 808 modules, 101 call and lesson transcripts, 61 templates, 3 calculators.
 
 ## v1.6

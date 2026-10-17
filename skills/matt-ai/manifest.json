@@ -596,6 +596,216 @@
     "video_only": false,
     "has_video": true,
     "has_transcript": true
+   },
+   {
+    "title": "October 7, 2026 - Business Call - My Business Philosophy",
+    "link": "https://www.skool.com/leadgenerationacademy/call-recordings",
+    "words": 9726,
+    "video_only": false,
+    "has_video": true,
+    "has_transcript": true
+   },
+   {
+    "title": "October 8, 2026 - Funnel Call - The Importance Of Messaging",
+    "link": "https://www.skool.com/leadgenerationacademy/call-recordings",
+    "words": 7843,
+    "video_only": false,
+    "has_video": true,
+    "has_transcript": true
+   },
+   {
+    "title": "October 13, 2026 - Personal Call - The Conditions Of Getting Locked In",
+    "link": "https://www.skool.com/leadgenerationacademy/call-recordings",
+    "words": 4789,
+    "video_only": false,
+    "has_video": true,
+    "has_transcript": true
+   },
+   {
+    "title": "October 15, 2026 - Funnel Call - Getting Started On YouTube",
+    "link": "https://www.skool.com/leadgenerationacademy/call-recordings",
+    "words": 9815,
+    "video_only": false,
+    "has_video": true,
+    "has_transcript": true
+   }
+  ]
+ },
+ {
+  "course": "Member Questions & Answers",
+  "system": "Core",
+  "dir": "00-core/58-member-questions-and-answers",
+  "course_link": "",
+  "modules": [
+   {
+    "title": "Member Questions & Answers: Cold Email",
+    "link": "",
+    "words": 368,
+    "video_only": false,
+    "has_video": false,
+    "has_transcript": false,
+    "questions": 3,
+    "latest": "October 16, 2026"
+   },
+   {
+    "title": "Member Questions & Answers: Content and YouTube",
+    "link": "",
+    "words": 607,
+    "video_only": false,
+    "has_video": false,
+    "has_transcript": false,
+    "questions": 4,
+    "latest": "October 15, 2026"
+   },
+   {
+    "title": "Member Questions & Answers: Facebook Ads",
+    "link": "",
+    "words": 1147,
+    "video_only": false,
+    "has_video": false,
+    "has_transcript": false,
+    "questions": 9,
+    "latest": "October 16, 2026"
+   },
+   {
+    "title": "Member Questions & Answers: Funnel Emails",
+    "link": "",
+    "words": 314,
+    "video_only": false,
+    "has_video": false,
+    "has_transcript": false,
+    "questions": 2,
+    "latest": "October 15, 2026"
+   },
+   {
+    "title": "Member Questions & Answers: Funnel Pages",
+    "link": "",
+    "words": 690,
+    "video_only": false,
+    "has_video": false,
+    "has_transcript": false,
+    "questions": 5,
+    "latest": "October 16, 2026"
+   },
+   {
+    "title": "Member Questions & Answers: Hiring and Team",
+    "link": "",
+    "words": 135,
+    "video_only": false,
+    "has_video": false,
+    "has_transcript": false,
+    "questions": 1,
+    "latest": "October 17, 2026"
+   },
+   {
+    "title": "Member Questions & Answers: ICP",
+    "link": "",
+    "words": 125,
+    "video_only": false,
+    "has_video": false,
+    "has_transcript": false,
+    "questions": 1,
+    "latest": "October 15, 2026"
+   },
+   {
+    "title": "Member Questions & Answers: Messaging",
+    "link": "",
+    "words": 575,
+    "video_only": false,
+    "has_video": false,
+    "has_transcript": false,
+    "questions": 1,
+    "latest": "October 12, 2026"
+   },
+   {
+    "title": "Member Questions & Answers: Metrics and Tracking",
+    "link": "",
+    "words": 315,
+    "video_only": false,
+    "has_video": false,
+    "has_transcript": false,
+    "questions": 3,
+    "latest": "October 11, 2026"
+   },
+   {
+    "title": "Member Questions & Answers: Offer",
+    "link": "",
+    "words": 2264,
+    "video_only": false,
+    "has_video": false,
+    "has_transcript": false,
+    "questions": 8,
+    "latest": "October 13, 2026"
+   },
+   {
+    "title": "Member Questions & Answers: Other",
+    "link": "",
+    "words": 602,
+    "video_only": false,
+    "has_video": false,
+    "has_transcript": false,
+    "questions": 5,
+    "latest": "October 14, 2026"
+   },
+   {
+    "title": "Member Questions & Answers: Partnerships",
+    "link": "",
+    "words": 411,
+    "video_only": false,
+    "has_video": false,
+    "has_transcript": false,
+    "questions": 3,
+    "latest": "October 14, 2026"
+   },
+   {
+    "title": "Member Questions & Answers: Personal System",
+    "link": "",
+    "words": 842,
+    "video_only": false,
+    "has_video": false,
+    "has_transcript": false,
+    "questions": 4,
+    "latest": "October 16, 2026"
+   },
+   {
+    "title": "Member Questions & Answers: Prospecting",
+    "link": "",
+    "words": 168,
+    "video_only": false,
+    "has_video": false,
+    "has_transcript": false,
+    "questions": 1,
+    "latest": "October 7, 2026"
+   },
+   {
+    "title": "Member Questions & Answers: Sales",
+    "link": "",
+    "words": 467,
+    "video_only": false,
+    "has_video": false,
+    "has_transcript": false,
+    "questions": 3,
+    "latest": "October 16, 2026"
+   },
+   {
+    "title": "Member Questions & Answers: Tools and Tech",
+    "link": "",
+    "words": 485,
+    "video_only": false,
+    "has_video": false,
+    "has_transcript": false,
+    "questions": 4,
+    "latest": "October 14, 2026"
+   },
+   {
+    "title": "Member Questions & Answers: Unit Economics",
+    "link": "",
+    "words": 455,
+    "video_only": false,
+    "has_video": false,
+    "has_transcript": false,
+    "questions": 3,
+    "latest": "October 14, 2026"
    }
   ]
  },

@@ -14,7 +14,8 @@ Shared module (same in every course): 00-core/help-support-clarification-feedbac
 - 00-core/04-core-business-thesis-and-philosophy/INDEX.md: Core Business Thesis & Philosophy (12 modules, 3,813 words)
 - 00-core/05-recommended-setup/INDEX.md: Recommended Setup (3 modules, 410 words)
 - 00-core/06-matt-s-example-business/INDEX.md: Matt's Example Business (8 modules, 5,116 words, 2 transcripts, 3 video only without transcript)
-- 00-core/07-matt-s-call-recordings/INDEX.md: Matt's Call Recordings (5 modules, 33,450 words, 5 transcripts)
+- 00-core/07-matt-s-call-recordings/INDEX.md: Matt's Call Recordings (9 modules, 65,623 words, 9 transcripts)
+- 00-core/58-member-questions-and-answers/INDEX.md: Member Questions & Answers (17 modules, 9,970 words)
 - 00-core/08-the-three-pillars-overview-read/INDEX.md: The Three Pillars Overview (READ) (7 modules, 2,111 words, 1 transcripts)
 
 ## Personal System
