@@ -236,6 +236,45 @@ Me: DM me tho
 
 ---
 
+## Choosing AI focus: doing work vs answering questions
+
+Asked: October 18, 2026
+Words: 243
+
+**Question:** If you could only choose one, would you prefer the AI to do the work for you or just answer questions? What is the best approach for Member 36 AI?
+
+**My answer:** To me, your biggest constraint, as someone looking at you from the outside, is actually doing the work in the modules. I prefer to make it agentic, but I want to get your feedback because most people said they wanted it as a chatbot
+
+To me, answering questions does not grow your business, and I'm just able to answer them manually and better
+
+But you integrate Grokbot, for example, with Member 36 AI: make your pages, write your flows, put them in your tools, etc
+
+I see very few people in the Skool so far, but also, historically, in my other offers, actually do 100% of the work
+
+To clarify when I say do work for you, what I mean is
+
+Member 36 AI will tell your Grokbot, Codex, Claude, etc. what to do
+
+and your Grokbot, etc.
+
+will do it
+
+As I am not capable of making something better than grokbot, codex, claude, obviously
+
+so Member 36 ai will act as a brain, and then grokbot will go do it
+
+This matters in the context of what I focus on
+
+You could just ask it all the answers and not have your Grok bot do anything, for sure
+
+But whether I put most of my attention on it doing work for you versus it answering questions 100% correctly is a bit different
+
+just let me cook a bit
+
+and i will send more AI log ins to people in about 1 week
+
+---
+
 ## Should I hire an editor for ads and what are costs and timelines?
 
 Asked: October 11, 2026
@@ -1291,34 +1330,5 @@ one for each state (we only do 35 of the 50 usa states)
 it helps a lot
 
 city based performs even better
-
----
-
-## How to improve webinar show rate and results
-
-Asked: October 9, 2026
-Words: 89
-
-**Question:** Ran a webinar with poor show rate (22.7%) and broke even on ad spend; what should I do to improve?
-
-**My answer (with the back-and-forth):**
-
-Me: what does the process look like between sign up and the webinar happening
-
-Me: email flows, reminders, appt setting
-
-Me: u should be blasting them every 4 hours with educational content before the webinar in addition to the reminders
-
-Me: to warm them up and educate them
-
-Me: you can also use the apple wallet event thing
-
-Member 26: What’s apple wallet event thing
-
-Me: there are some softwares on the TY page of the sign up
-
-Me: where u have add this event to ur apple wallet
-
-Me: and it will add a webinar invite to their apple wallet which reminds them
 
 ---

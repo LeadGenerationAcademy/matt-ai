@@ -128,3 +128,15 @@ Me: It's the first day it was live. I think it will just normalize with how peop
 Me: Don't think we're going to have to worry too much about people mass-filling it out or anything. Everyone's paying to be here, and everyone's a business owner. Don't think it's that deep.
 
 ---
+
+## Leaderboard ranking despite logging 4 hours
+
+Asked: October 18, 2026
+Where: Telegram group "Lead Generation Academy General Chat"
+Topic: Personal System
+
+**Question:** I filled out 4 hours of deep work today but am not even ranked #5 on the leaderboard. Why?
+
+**My answer:** how long ago
+
+---
